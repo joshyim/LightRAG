@@ -24,3 +24,8 @@ examples/output/
 .DS_Store
 .DS_Store
 .DS_Store
+
+#Docker volumes
+neo4j/
+mongo/
+pgvector/

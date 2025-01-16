@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "lightrag"
+version = "0.0.1"
+description = ""
+authors = ["Josh Yim <josh@joshyim.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyterlab = "^4.3.4"
+lightrag-hku = "^1.1.0"
+ollama = "^0.4.5"
+openai = "^1.59.6"
+networkx = "^3.4.2"
+sqlalchemy = "^2.0.37"
+numpy = "^2.2.1"
+tiktoken = "^0.8.0"
+transformers = "^4.48.0"
+xxhash = "^3.5.0"
+torch = { version = "2.2.2", source = "pytorch" }
+
+[[tool.poetry.source]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cu121"
+priority = "explicit"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
