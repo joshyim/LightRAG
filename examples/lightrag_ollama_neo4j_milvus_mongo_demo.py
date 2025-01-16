@@ -22,10 +22,10 @@ os.environ["NEO4J_USERNAME"] = "neo4j"
 os.environ["NEO4J_PASSWORD"] = "neo4j"
 
 # milvus
-os.environ["MILVUS_URI"] = "http://localhost:19530"
-os.environ["MILVUS_USER"] = "root"
-os.environ["MILVUS_PASSWORD"] = "root"
-os.environ["MILVUS_DB_NAME"] = "lightrag"
+# os.environ["MILVUS_URI"] = "http://localhost:19530"
+# os.environ["MILVUS_USER"] = "root"
+# os.environ["MILVUS_PASSWORD"] = "root"
+# os.environ["MILVUS_DB_NAME"] = "lightrag"
 
 
 rag = LightRAG(
@@ -42,9 +42,9 @@ rag = LightRAG(
             texts=texts, embed_model="bge-m3:latest", host="http://127.0.0.1:11434"
         ),
     ),
-    kv_storage="MongoKVStorage",
+    # kv_storage="MongoKVStorage",
     graph_storage="Neo4JStorage",
-    vector_storage="MilvusVectorDBStorge",
+    # vector_storage="MilvusVectorDBStorge",
 )
 
 file = "./book.txt"

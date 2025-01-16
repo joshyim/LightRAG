@@ -16,7 +16,7 @@ if not os.path.exists(WORKING_DIR):
 rag = LightRAG(
     working_dir=WORKING_DIR,
     llm_model_func=ollama_model_complete,
-    llm_model_name="gemma2:2b",
+    llm_model_name="gemma2:9Bmod",
     llm_model_max_async=4,
     llm_model_max_token_size=32768,
     llm_model_kwargs={"host": "http://localhost:11434", "options": {"num_ctx": 32768}},
@@ -29,7 +29,7 @@ rag = LightRAG(
     ),
 )
 
-with open("./book.txt", "r", encoding="utf-8") as f:
+with open("./dickens/book.txt", "r", encoding="utf-8") as f:
     rag.insert(f.read())
 
 # Perform naive search
