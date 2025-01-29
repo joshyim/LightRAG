@@ -17,7 +17,7 @@ numpy = "^2.2.1"
 tiktoken = "^0.8.0"
 transformers = "^4.48.0"
 xxhash = "^3.5.0"
-torch = { version = "2.2.2", source = "pytorch" }
+torch = { version = "2.1.0", source = "pytorch" }
 
 [[tool.poetry.source]]
 name = "pytorch"

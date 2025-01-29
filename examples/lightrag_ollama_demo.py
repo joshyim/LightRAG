@@ -29,8 +29,8 @@ rag = LightRAG(
     ),
 )
 
-with open("./dickens/book.txt", "r", encoding="utf-8") as f:
-    rag.insert(f.read())
+# with open("./dickens/book.txt", "r", encoding="utf-8") as f:
+#     rag.insert(f.read())
 
 # Perform naive search
 print(
@@ -47,7 +47,7 @@ print(
     rag.query("What are the top themes in this story?", param=QueryParam(mode="global"))
 )
 
-# Perform hybrid search
+#Perform hybrid search
 print(
     rag.query("What are the top themes in this story?", param=QueryParam(mode="hybrid"))
 )

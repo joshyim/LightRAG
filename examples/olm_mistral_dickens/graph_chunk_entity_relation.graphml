@@ -1,0 +1,1956 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;MASTER SCROOGE'S BOX&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"Master Scrooge's box refers to his luggage, which is brought down by the schoolmaster."</data>
+      <data key="d2">chunk-c6c248858d1b13ab7ee9ca13c1aeed6b</data>
+    </node>
+    <node id="&quot;FIRST SPEAKER (IN THE FIRST CONVERSATION)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The first speaker yawns and shows disinterest in discussing Jacob's money."</data>
+      <data key="d2">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </node>
+    <node id="&quot;PADLOCKS&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Padlocks are mentioned as part of Marley's transparent body, symbolizing the barriers and restrictions Marley created in life."</data>
+      <data key="d2">chunk-1aa50206d02ed89418f65f97c6441d1c</data>
+    </node>
+    <node id="&quot;STORM-BIRDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Storm-birds rise and fall about the lighthouse, suggesting a harsh and stormy environment."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;THE WASH-HOUSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The wash-house is mentioned as a place where Tiny Tim was taken to hear the pudding singing in the copper."</data>
+      <data key="d2">chunk-7e2e7ebcc19a53b399dc03aded4743e7</data>
+    </node>
+    <node id="&quot;STAVE ONE&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Stave One is the first section of the story where Marley's ghost appears."</data>
+      <data key="d2">chunk-89777b838d5447c7bd1ec11282c4ee89</data>
+    </node>
+    <node id="&quot;THE GENTLEMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Gentleman represents charitable organizations seeking donations from Scrooge for the poor and destitute."</data>
+      <data key="d2">chunk-90d5764e301321c087f5a8f78b73a145</data>
+    </node>
+    <node id="&quot;THE CRATCHIT FAMILY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Cratchit family is portrayed as loving and close-knit despite their financial struggles, with each member contributing to the well-being of the others."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;SPIRIT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Spirit is an entity capable of showing Scrooge visions and forcing him to observe scenes."</data>
+      <data key="d2">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;FEZZIWIG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fezziwig is Ebenezer's former boss, known for his benevolence and jovial spirit."&lt;SEP&gt;"Fezziwig is a generous and kind-hearted employer whom Scrooge remembers from his past."&lt;SEP&gt;"Fezziwig is described as a generous individual who hosts a lively Christmas party, inspiring gratitude in his employees."&lt;SEP&gt;"Fezziwig is mentioned by one of the men in the market as someone who would attend Jacob's funeral if a lunch was provided. It's unclear whether he's a real person or a fictional character within this story."</data>
+      <data key="d2">chunk-cb661c37436355ccec2769b1d0350c5f&lt;SEP&gt;chunk-b2f98bc7abb0c67d4c86055c7fd72218&lt;SEP&gt;chunk-c6c248858d1b13ab7ee9ca13c1aeed6b&lt;SEP&gt;chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </node>
+    <node id="&quot;POSTBOY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The postboy drives the chaise with Ebenezer and Fan, declining a glass of 'something' offered by the schoolmaster."</data>
+      <data key="d2">chunk-c6c248858d1b13ab7ee9ca13c1aeed6b</data>
+    </node>
+    <node id="&quot;SECOND SPEAKER (IN THE FIRST CONVERSATION)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The second speaker, a red-faced gentleman with a pendulous excrescence on his nose, asks about Jacob's money and jokes about attending his funeral."</data>
+      <data key="d2">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </node>
+    <node id="&quot;LEDGERS&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Ledgers are mentioned as part of Marley's transparent body, highlighting his meticulous record-keeping and focus on business transactions."</data>
+      <data key="d2">chunk-1aa50206d02ed89418f65f97c6441d1c</data>
+    </node>
+    <node id="&quot;HELMSMAN&quot;">
+      <data key="d0">"OCCUPATION"</data>
+      <data key="d1">"The helmsman is in charge of steering the ship, standing at the wheel on board the vessel."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;DEATH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Death is mentioned as the cause of the items being scavenged, implying the recent demise of an individual."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;SCROOGE AND MARLEY (THE FIRM)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Scrooge and Marley was the business partnership between Scrooge and Marley."</data>
+      <data key="d2">chunk-89777b838d5447c7bd1ec11282c4ee89</data>
+    </node>
+    <node id="&quot;PRISONS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Prisons are mentioned as institutions where many people suffer, but they are still operational according to the gentleman."</data>
+      <data key="d2">chunk-90d5764e301321c087f5a8f78b73a145</data>
+    </node>
+    <node id="&quot;MARLEY'S GHOST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Marley's Ghost appears on Christmas Eve to warn Scrooge about the fate that awaits him if he continues on his current path."&lt;SEP&gt;"Marley's Ghost appears to Ebenezer Scrooge, delivering warnings and causing him distress."&lt;SEP&gt;"Marley's Ghost appears to Scrooge, causing him distress and confusion."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;A BEAUTIFUL YOUNG GIRL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A beautiful young girl who is seen playing with children, similar to Scrooge's daughter."</data>
+      <data key="d2">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;THE GROCER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The grocer is portrayed as a welcoming establishment with frank and fresh staff."</data>
+      <data key="d2">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </node>
+    <node id="&quot;THIRD SPEAKER (IN THE FIRST CONVERSATION)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The third speaker, identified by his large chin, is disinterested in discussing Jacob's money but offers to attend his funeral if others join him."</data>
+      <data key="d2">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </node>
+    <node id="&quot;DEEDS&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Deeds are mentioned as part of Marley's transparent body, suggesting his involvement in property acquisitions or transfers during his life."</data>
+      <data key="d2">chunk-1aa50206d02ed89418f65f97c6441d1c</data>
+    </node>
+    <node id="&quot;LOOK-OUT&quot;">
+      <data key="d0">"OCCUPATION"</data>
+      <data key="d1">"The look-out is positioned in the bow of the ship, keeping watch for any hazards or landmarks ahead."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;OLD MARLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Old Marley is referred to as Scrooge's former partner, emphasizing his seniority."</data>
+      <data key="d2">chunk-89777b838d5447c7bd1ec11282c4ee89</data>
+    </node>
+    <node id="&quot;UNION WORKHOUSES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Union workhouses are described as being in operation and busy, providing aid to those in need."</data>
+      <data key="d2">chunk-90d5764e301321c087f5a8f78b73a145</data>
+    </node>
+    <node id="&quot;THE SPIRIT OF CHRISTMAS PRESENT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Spirit of Christmas Present embodies the spirit of generosity, kindness, and goodwill towards others during the holiday season."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;FATHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The father of the beautiful young girl and the group of children who comes home attended by a man with Christmas toys and presents."</data>
+      <data key="d2">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;SCROOGE'S CLERK'S DWELLING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Scrooge's clerk, Bob Cratchit, lives in this dwelling that is blessed by the Ghost of Christmas Present."</data>
+      <data key="d2">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </node>
+    <node id="&quot;FOURTH SPEAKER (IN THE SECOND CONVERSATION)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The fourth speaker is a wealthy and important man who meets another businessman on the street. He discusses the cold weather briefly before parting ways."</data>
+      <data key="d2">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </node>
+    <node id="&quot;HEAVY PURSES WROUGHT IN STEEL&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Heavy purses made of steel are mentioned as part of Marley's transparent body, emphasizing the importance and weight of money in his life."</data>
+      <data key="d2">chunk-1aa50206d02ed89418f65f97c6441d1c</data>
+    </node>
+    <node id="&quot;OFFICERS&quot;">
+      <data key="d0">"OCCUPATION"</data>
+      <data key="d1">"The officers on board the ship have the watch, overseeing the vessel's operations and crew during their shift."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;CHURCH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Church is mentioned as the place where Bob Cratchit and Tiny Tim went before coming home for Christmas dinner."</data>
+      <data key="d2">chunk-7e2e7ebcc19a53b399dc03aded4743e7</data>
+    </node>
+    <node id="&quot;THE WOMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Woman, along with Old Joe, is scavenging items from the deceased man's house. She shows no remorse and finds humor in the situation."</data>
+      <data key="d2">chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64</data>
+    </node>
+    <node id="&quot;THE POOR LAW&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"The Poor Law is mentioned as a system that is active and supports the institutions helping the poor."</data>
+      <data key="d2">chunk-90d5764e301321c087f5a8f78b73a145</data>
+    </node>
+    <node id="&quot;THE CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The City appears as the setting where Scrooge observes merchants conducting business."&lt;SEP&gt;"The City refers to the location where Ebenezer Scrooge's counting-house is situated. It is described as having foggy and biting weather on this particular day."</data>
+      <data key="d2">chunk-74e2466de2f67fd710ef2f20c0a8d9e0&lt;SEP&gt;chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;OGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"oge is portrayed as appalled and trying to defend children he believes are fine."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"India is a country in Asia where new COVID-19 variants were detected during the pandemic."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;BELINDA CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Belinda Cratchit, the second daughter of Bob and Mrs. Cratchit, assists her mother in setting the table."</data>
+      <data key="d2">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </node>
+    <node id="&quot;FIFTH SPEAKER (IN THE SECOND CONVERSATION)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The fifth speaker is another wealthy and important businessman who meets the fourth speaker on the street. He briefly mentions that 'old Scratch has got his own at last' before discussing the cold weather."</data>
+      <data key="d2">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </node>
+    <node id="&quot;BOB&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bob is portrayed as a mild and understanding husband who mediates between his wife and brother-in-law, Mr. Scrooge."</data>
+      <data key="d2">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </node>
+    <node id="&quot;MISS BELINDA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miss Belinda assists Mrs. Cratchit by helping to change the plates for the pudding."</data>
+      <data key="d2">chunk-503f0bfa5453467c7c61d160a3540eca</data>
+    </node>
+    <node id="&quot;ILLUSTRATION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"An illustration or graphic, likely present in the context of the text but not explicitly described."</data>
+      <data key="d2">chunk-e0a61ff58550112a553d6ec01d2c0891</data>
+    </node>
+    <node id="&quot;TINY TIM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Timothy Cratchit, Bob Cratchit's youngest son who is crippled and uses crutches to walk."&lt;SEP&gt;"Tiny Tim is Bob Cratchit's disabled son who becomes a symbol of hope and innocence in the story."&lt;SEP&gt;"Tiny Tim is Bob Cratchit's disabled son, known for his cheerful and hopeful demeanor despite his illness."&lt;SEP&gt;"Tiny Tim is Bob and Mrs. Cratchit's youngest son who is not concerned about Mr. Scrooge despite being part of the poor family."&lt;SEP&gt;"Tiny Tim is a child with weak eyes who is loved by his father and remembered fondly after his passing."&lt;SEP&gt;"Tiny Tim is a young child who is loved by Bob Cratchit and is the focus of their affectionate dialogue."&lt;SEP&gt;"Tiny Tim is portrayed as a frail but loved child of Bob Cratchit who participates enthusiastically in the family's Christmas celebration despite his health condition."</data>
+      <data key="d2">chunk-1d4b58de5429cd1261370c231c8673e8&lt;SEP&gt;chunk-91572b3cd42786ba4cb2f180ca25cbf4&lt;SEP&gt;chunk-90b95db5c53e4364a6bee36b7aa4d70f&lt;SEP&gt;chunk-503f0bfa5453467c7c61d160a3540eca&lt;SEP&gt;chunk-8f738cb25d60a7dab782162d9d0a25ed&lt;SEP&gt;chunk-8bc1edd983869352d14cf0886a9175a7&lt;SEP&gt;chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </node>
+    <node id="&quot;THE DECEASED MAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Deceased Man is the focus of the scene. His belongings are being taken by others without regard for his passing."</data>
+      <data key="d2">chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64</data>
+    </node>
+    <node id="&quot;CHRISTMAS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Christmas is depicted as an important event for the Cratchit family, bringing them together for a joyful celebration despite their poverty."&lt;SEP&gt;"Christmas is portrayed as a time of charity, kindness, and open-heartedness, which Scrooge initially rejects."&lt;SEP&gt;"Christmas is portrayed as a time when Want is keenly felt, and Abundance rejoices, but Scrooge does not participate in its festivities."</data>
+      <data key="d2">chunk-503f0bfa5453467c7c61d160a3540eca&lt;SEP&gt;chunk-90d5764e301321c087f5a8f78b73a145&lt;SEP&gt;chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </node>
+    <node id="&quot;THE CLERK'S LITTLE CELL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"A dismal little cell beyond Scrooge's counting-house where Bob Cratchit, his clerk, works."</data>
+      <data key="d2">chunk-74e2466de2f67fd710ef2f20c0a8d9e0</data>
+    </node>
+    <node id="&quot;SPIRIT! &quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Spirit appears as an apparition warning Scrooge about Ignorance and Want."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;MASTER PETER CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Cratchit is Bob's son who wears his father's shirt collar proudly on Christmas Day."</data>
+      <data key="d2">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </node>
+    <node id="&quot;JACOB&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jacob, Scrooge's old partner, is deceased and his money is being discussed by other characters in the story."</data>
+      <data key="d2">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </node>
+    <node id="&quot;PETER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter is Bob and Mrs. Cratchit's eldest son who dreams of becoming a man of business and pulls up his collar to mimic the height of a lord he saw."&lt;SEP&gt;"Peter is one of Bob Cratchit's children who helps him prepare for Christmas and has aspirations beyond his current situation."</data>
+      <data key="d2">chunk-1d4b58de5429cd1261370c231c8673e8&lt;SEP&gt;chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </node>
+    <node id="&quot;SPONTANEOUS COMBUSTION&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Scrooge's fearful thought about his mysterious condition."</data>
+      <data key="d2">chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;GIN AND LEMONS MIXER&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"A hot mixture of gin and lemons prepared by Bob Cratchit to be served during their Christmas dinner."</data>
+      <data key="d2">chunk-7e2e7ebcc19a53b399dc03aded4743e7</data>
+    </node>
+    <node id="&quot;BED-CURTAINS&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Bed-curtains are mentioned by Old Joe, referring to the dark roll of material taken from the deceased man's house."</data>
+      <data key="d2">chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64</data>
+    </node>
+    <node id="&quot;THE BABY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The baby is mentioned as belonging to the little tailor and his lean wife, indicating a family struggling to make ends meet at Christmas."</data>
+      <data key="d2">chunk-90d5764e301321c087f5a8f78b73a145</data>
+    </node>
+    <node id="&quot;FOG&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The dense fog that permeates the city on this particular day, affecting visibility and atmosphere."</data>
+      <data key="d2">chunk-74e2466de2f67fd710ef2f20c0a8d9e0</data>
+    </node>
+    <node id="&quot;THE GHOST OF CHRISTMAS YET TO COME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ghost of Christmas Yet to Come appears as a silent, mysterious figure leading Scrooge through the city."&lt;SEP&gt;"The Ghost of Christmas Yet to Come appears at the end of Scrooge's journey, showing him a vision of his own future if he does not change his ways."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;FAT MAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A great fat man with a monstrous chin is mentioned, but his name is not provided."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;THE TWO SMALLER CRATCHITS&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"The two younger children of Bob and Mrs. Cratchit, a boy and girl, are excited about the goose for Christmas dinner."</data>
+      <data key="d2">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </node>
+    <node id="&quot;OLD SCRATCH&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Old Scratch is mentioned as a reference to the devil or something bad that has happened."</data>
+      <data key="d2">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </node>
+    <node id="&quot;MARTHA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Martha is Bob and Mrs. Cratchit's daughter who works as an apprentice at a milliner's and shares stories about her experiences with her siblings."</data>
+      <data key="d2">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </node>
+    <node id="&quot;MARLEY'S TIME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A past time when Marley was alive, referenced by Scrooge."</data>
+      <data key="d2">chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;CHRISTMAS TIME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Christmas Time is a period in which Scrooge decides to make amends and live differently, valuing it highly."</data>
+      <data key="d2">chunk-91572b3cd42786ba4cb2f180ca25cbf4</data>
+    </node>
+    <node id="&quot;RINGS&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Rings are mentioned in relation to the bed-curtains, implying they were also taken from the deceased man's belongings."</data>
+      <data key="d2">chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64</data>
+    </node>
+    <node id="&quot;ST. DUNSTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"St. Dunstan is mentioned in relation to being a good saint who would have used cold weather to combat evil spirits."</data>
+      <data key="d2">chunk-90d5764e301321c087f5a8f78b73a145</data>
+    </node>
+    <node id="&quot;CANDLE&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"A source of light in Bob Cratchit's little cell, used to warm himself due to the lack of fire."</data>
+      <data key="d2">chunk-74e2466de2f67fd710ef2f20c0a8d9e0</data>
+    </node>
+    <node id="&quot;RED-FACED GENTLEMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A red-faced gentleman with a pendulous excrescence on the end of his nose is mentioned, but his name is not provided."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;THE GROCER'S STAFF&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The grocer's staff are portrayed as frank and fresh."</data>
+      <data key="d2">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </node>
+    <node id="&quot;THE PORCH&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The Porch is a location where Scrooge usually stands, but his likeness is not found there during his encounter with the Spirit."</data>
+      <data key="d2">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </node>
+    <node id="&quot;THE FEAST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Feast is the annual celebration hosted by Mr. Scrooge for his employees and their families."</data>
+      <data key="d2">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </node>
+    <node id="&quot;PLENTY'S HORN&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"An ancient artifact resembling a glowing torch, held by the Ghost of Christmas Present."</data>
+      <data key="d2">chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;THE POOR&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"The poor are mentioned as suffering greatly at the present time, implying a need for charity."</data>
+      <data key="d2">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </node>
+    <node id="&quot;DONALD TRUMP&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Donald Trump served as the previous President of the United States and was impeached due to his role in the storming of the Capitol."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;THE SECOND WOMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Second Woman is another individual present in the scene, assisting in the sorting of the deceased man's belongings alongside Old Joe and The First Woman."</data>
+      <data key="d2">chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64</data>
+    </node>
+    <node id="&quot;THE EVIL SPIRIT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Evil Spirit is mentioned as a figure opposed by St. Dunstan, representing negativity or mischief."</data>
+      <data key="d2">chunk-90d5764e301321c087f5a8f78b73a145</data>
+    </node>
+    <node id="&quot;THE COUNTING-HOUSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The counting-house is where Scrooge works, described as gloomy and dark."</data>
+      <data key="d2">chunk-d9aac3484185ac66045df92214d245d5</data>
+    </node>
+    <node id="&quot;ALI BABA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Ali Baba is a character from one of Scrooge's childhood stories."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;SOUTH AFRICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"South Africa is another country in Africa where new COVID-19 variants were discovered in 2021."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;THE BAKERS'">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The bakers are involved in preparing dinners for many people on Christmas Day."</data>
+      <data key="d2">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </node>
+    <node id="&quot;MR. SCROOGE'S PARTNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Scrooge's partner lies upon the point of death, indicating their close working relationship."</data>
+      <data key="d2">chunk-da2472b4ef2a535b62908f14d0fb0ca9</data>
+    </node>
+    <node id="&quot;THE LAMPLIGHTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Lamplighter is a person seen by the Ghost of Christmas Present, who laughs out loud as the Spirit passes."</data>
+      <data key="d2">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </node>
+    <node id="&quot;THE CLOCK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Clock is described as having an icicle in its works, stopping it from keeping accurate time."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;THE GOOSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Goose is described as a large and delicious bird that serves as the main dish for the Cratchit family's Christmas dinner."&lt;SEP&gt;"The Goose is the centerpiece of the Cratchit family's Christmas meal, causing great excitement among the family members."</data>
+      <data key="d2">chunk-7e2e7ebcc19a53b399dc03aded4743e7&lt;SEP&gt;chunk-503f0bfa5453467c7c61d160a3540eca</data>
+    </node>
+    <node id="&quot;THE GHOST&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Ghost appears to be an entity that guides Scrooge through visions of his past, present, and future."&lt;SEP&gt;"The Ghost guides Scrooge through various locations, revealing insights about the people there."&lt;SEP&gt;"The Ghost is a supernatural entity that guides Scrooge through various scenes, teaching him precepts and leaving blessings behind."&lt;SEP&gt;"The Ghost leads Scrooge through scenes from his past, helping him reflect on his life and attitudes."</data>
+      <data key="d2">chunk-83ac129dc9b56f84c46760d153d68e93&lt;SEP&gt;chunk-b2f98bc7abb0c67d4c86055c7fd72218&lt;SEP&gt;chunk-e7637ff18c5ded77a68cce0a87883fad&lt;SEP&gt;chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;CHRISTMAS DAY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Christmas Day is the day on which Scrooge's transformation occurs and he decides to celebrate generously."&lt;SEP&gt;"The day on which Scrooge's transformation occurs, leading him to show kindness towards Bob Cratchit."</data>
+      <data key="d2">chunk-19fcf3bed0b4df750efc07831690f550&lt;SEP&gt;chunk-90b95db5c53e4364a6bee36b7aa4d70f</data>
+    </node>
+    <node id="&quot;CAMDEN TOWN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Camden Town is the location where Bob Cratchit lives."</data>
+      <data key="d2">chunk-d9aac3484185ac66045df92214d245d5</data>
+    </node>
+    <node id="&quot;VALENTINE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Valentine is mentioned as someone who was part of Scrooge's past experiences."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;THE DINNER-CARRIERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The dinner-carriers are people who bring their dinners to the bakers' shops, showing good humour despite quarrels."</data>
+      <data key="d2">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </node>
+    <node id="&quot;FAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fan is Scrooge's sister, known for her kindness and generosity towards others."&lt;SEP&gt;"Fan is Scrooge's sister, who died young. She is mentioned in the scene with the Ghost of Christmas Past."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-da2472b4ef2a535b62908f14d0fb0ca9</data>
+    </node>
+    <node id="&quot;THE MOTHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The mother is a character who lays her work upon the table and expresses concern for Tiny Tim's health."</data>
+      <data key="d2">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+    </node>
+    <node id="&quot;NIGHT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Night is mentioned as not having beaten off bright day, indicating that Ebenezer Scrooge's perception of time may be distorted."&lt;SEP&gt;"Night is mentioned as not having beaten off bright day, indicating that Scrooge's perception of time may be distorted."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;MRS. CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mrs. Cratchit is Bob Cratchit's loving and caring wife, who manages their household and raises their children with kindness and warmth."&lt;SEP&gt;"Mrs. Cratchit is Bob Cratchit's wife who cares deeply for her family and works hard to provide for them."&lt;SEP&gt;"Mrs. Cratchit is Bob Cratchit's wife, who kisses little Bob and shares in his happiness."&lt;SEP&gt;"Mrs. Cratchit is Bob's wife who dresses in a twice-turned gown but bravely wears ribbons for Christmas."&lt;SEP&gt;"Mrs. Cratchit is Bob's wife who has strong opinions about Mr. Scrooge and is concerned about their financial situation."&lt;SEP&gt;"Mrs. Cratchit is portrayed as a nervous but proud woman who prepares and serves a large Christmas pudding for her family."&lt;SEP&gt;"Mrs. Cratchit is the mother of the Cratchit family, focused on preparing a Christmas meal despite their financial struggles."</data>
+      <data key="d2">chunk-7e2e7ebcc19a53b399dc03aded4743e7&lt;SEP&gt;chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b&lt;SEP&gt;chunk-1d4b58de5429cd1261370c231c8673e8&lt;SEP&gt;chunk-91572b3cd42786ba4cb2f180ca25cbf4&lt;SEP&gt;chunk-503f0bfa5453467c7c61d160a3540eca&lt;SEP&gt;chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </node>
+    <node id="&quot;THE TWO APPRENTICES&quot;">
+      <data key="d0">"GROUP"</data>
+      <data key="d1">"The two apprentices are mentioned as being grateful to Fezziwig and pouring out their hearts in praise of him."</data>
+      <data key="d2">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </node>
+    <node id="&quot;THE GHOST OF JACOB MARLEY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ghost of Jacob Marley appears to Scrooge on Christmas Eve as a warning about the consequences of his miserly ways."</data>
+      <data key="d2">chunk-90b95db5c53e4364a6bee36b7aa4d70f</data>
+    </node>
+    <node id="&quot;THE SINGER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The singer is portrayed as fleeing in terror from Scrooge."</data>
+      <data key="d2">chunk-d9aac3484185ac66045df92214d245d5</data>
+    </node>
+    <node id="&quot;ORSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Orson is mentioned alongside Valentine, suggesting they were both part of Scrooge's past experiences."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;THE GHOST OF CHRISTMAS PAST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ghost of Christmas Past is a spiritual being that guides Scrooge through his past experiences, aiming to evoke change in him."&lt;SEP&gt;"The Ghost of Christmas Past shows Scrooge scenes from his past, particularly his happy memories and his estrangement from his former fiancée, Belle."&lt;SEP&gt;"The Ghost of Christmas Past shows Scrooge scenes from his past, particularly his time with Belle and his sister Fan."</data>
+      <data key="d2">chunk-da2472b4ef2a535b62908f14d0fb0ca9&lt;SEP&gt;chunk-8f738cb25d60a7dab782162d9d0a25ed&lt;SEP&gt;chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;THE CHILDREN&quot;">
+      <data key="d0">"GROUP"</data>
+      <data key="d1">"The children are the grandchildren of Scrooge's late partner, who enthusiastically celebrate Christmas together."</data>
+      <data key="d2">chunk-da2472b4ef2a535b62908f14d0fb0ca9</data>
+    </node>
+    <node id="&quot;MR. SCROOGE'S NEPHEW&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mr. Scrooge's nephew is described as kind-hearted and willing to help those in need, unlike his uncle."</data>
+      <data key="d2">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+    </node>
+    <node id="&quot;THE QUARTER PAST MIDNIGHT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Quarter Past Midnight is the time when Marley's Ghost appears to Scrooge."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;BOB CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bob Cratchit is Scrooge's clerk mentioned in passing."&lt;SEP&gt;"Bob Cratchit is Scrooge's clerk who celebrates Christmas Eve enthusiastically despite his lowly position."&lt;SEP&gt;"Bob Cratchit is Scrooge's clerk who earns fifteen 'bob' a week and has a four-roomed house with his family."&lt;SEP&gt;"Bob Cratchit is Scrooge's clerk, described as being in a dismal little cell beyond his master's counting-house. His fire is very small due to Scrooge's control over the coal-box."&lt;SEP&gt;"Bob Cratchit is Scrooge's employee whom he treats kindly after his transformation, sending him a large turkey for Christmas dinner."&lt;SEP&gt;"Bob Cratchit is Scrooge's underpaid clerk who is described as cold but warmer than Scrooge."&lt;SEP&gt;"Bob Cratchit is a kind-hearted individual who is patient and mild, shown through his interactions with Tiny Tim."&lt;SEP&gt;"Bob Cratchit is depicted as a kind and caring father who is concerned about his family's well-being."&lt;SEP&gt;"Bob Cratchit is described as a kind-hearted man who works for Ebenezer Scrooge, struggling with his low pay but maintaining a positive attitude."&lt;SEP&gt;"Bob Cratchit is mentioned as Scrooge's clerk, whom Scrooge wishes to speak to."&lt;SEP&gt;"Bob Cratchit is mentioned as a character from Scrooge's past, with whom he shares a conversation while they walk together."&lt;SEP&gt;"Bob Cratchit is the clerk to Ebenezer Scrooge and a loving father to his family."&lt;SEP&gt;"Bob Cratchit is the father in the story, working at Scrooge's company and struggling financially but being kind and loving to his family."&lt;SEP&gt;"Bob Cratchit is the father of the Cratchit family, struggling financially but filled with love and compassion for his family."&lt;SEP&gt;"Bob Cratchit, Scrooge's underpaid and overworked employee who has a large family."&lt;SEP&gt;"Bob Cratchit, the husband of Mrs. Cratchit, is shown to be a proud father who leads his family in celebrating Christmas with great care and enthusiasm."&lt;SEP&gt;"Bob is Scrooge's underpaid employee who receives a salary raise from Scrooge after their interaction on Christmas morning."</data>
+      <data key="d2">chunk-7e2e7ebcc19a53b399dc03aded4743e7&lt;SEP&gt;chunk-19fcf3bed0b4df750efc07831690f550&lt;SEP&gt;chunk-b2f98bc7abb0c67d4c86055c7fd72218&lt;SEP&gt;chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b&lt;SEP&gt;chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-1d4b58de5429cd1261370c231c8673e8&lt;SEP&gt;chunk-91572b3cd42786ba4cb2f180ca25cbf4&lt;SEP&gt;chunk-90d5764e301321c087f5a8f78b73a145&lt;SEP&gt;chunk-90b95db5c53e4364a6bee36b7aa4d70f&lt;SEP&gt;chunk-bb21d58d36c6306fd8810ddd51c4a971&lt;SEP&gt;chunk-d9aac3484185ac66045df92214d245d5&lt;SEP&gt;chunk-503f0bfa5453467c7c61d160a3540eca&lt;SEP&gt;chunk-8f738cb25d60a7dab782162d9d0a25ed&lt;SEP&gt;chunk-74e2466de2f67fd710ef2f20c0a8d9e0&lt;SEP&gt;chunk-5dac41b3f9eeaf794f0147400b1718cd&lt;SEP&gt;chunk-83ac129dc9b56f84c46760d153d68e93&lt;SEP&gt;chunk-8bc1edd983869352d14cf0886a9175a7</data>
+    </node>
+    <node id="&quot;DICK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dick is mentioned as Scrooge's former self, who is seen with his face bright alongside Bob Cratchit."</data>
+      <data key="d2">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </node>
+    <node id="&quot;THE GHOSTS OF CHRISTMAS PAST, PRESENT, AND YET TO COME&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"These spirits collectively visit Scrooge to show him visions of his past, present, and future in order to encourage him to change his ways."</data>
+      <data key="d2">chunk-90b95db5c53e4364a6bee36b7aa4d70f</data>
+    </node>
+    <node id="&quot;THE CLERK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The clerk is described as warmer than Scrooge and returns his nephew's Christmas greetings cordially."&lt;SEP&gt;"The clerk works with Scrooge and shows faint amusement at his comments."</data>
+      <data key="d2">chunk-5dac41b3f9eeaf794f0147400b1718cd&lt;SEP&gt;chunk-d9aac3484185ac66045df92214d245d5</data>
+    </node>
+    <node id="&quot;CROSS-ROADS AND BY-WAYS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cross-roads and by-ways refer to the paths taken by people as they return home for Christmas."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;FAN (LITTLE)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fan is Ebenezer's younger sister, who brings him home for Christmas."</data>
+      <data key="d2">chunk-c6c248858d1b13ab7ee9ca13c1aeed6b</data>
+    </node>
+    <node id="&quot;CHRISTMAS PRESENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Christmas Present refers to the current time and the celebrations happening around it."</data>
+      <data key="d2">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;JOE MILLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joe Miller refers to a joke, implying that sending the large turkey to Bob Cratchit is a humorous gesture by Scrooge."&lt;SEP&gt;"Joe Miller, a friend of Bob Cratchit who sends Scrooge a turkey anonymously on Christmas Day."</data>
+      <data key="d2">chunk-8f738cb25d60a7dab782162d9d0a25ed&lt;SEP&gt;chunk-90b95db5c53e4364a6bee36b7aa4d70f</data>
+    </node>
+    <node id="&quot;ENTITY NAME&quot;">
+      <data key="d0">"ENTITY TYPE"</data>
+      <data key="d1">"Entity Description"</data>
+      <data key="d2">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+    </node>
+    <node id="&quot;THE HOUR BELL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Hour Bell tolls the hours throughout the night, marking the passage of time for Ebenezer Scrooge."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;JACOB MARLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jacob Marley appears as a ghost to Ebenezer Scrooge on Christmas Eve, warning him about his future."&lt;SEP&gt;"Jacob Marley appears as a ghost to Scrooge, emphasizing the importance of charity and kindness."&lt;SEP&gt;"Jacob Marley is Scrooge's deceased business partner who appears as a ghost to warn him about the consequences of his greedy lifestyle."&lt;SEP&gt;"Jacob Marley is mentioned as the one who predicted Scrooge's encounter with the Ghost of Christmas Yet to Come."&lt;SEP&gt;"Jacob Marley is mentioned in relation to his burial and the sexton's spade. He is presumably deceased and has some connection to Scrooge."&lt;SEP&gt;"Jacob Marley is the deceased former business partner of Ebenezer Scrooge, appearing as a ghost to warn him about his future."&lt;SEP&gt;"Jacob Marley was Scrooge's partner in life, now appearing as a ghost to warn Scrooge."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52&lt;SEP&gt;chunk-1aa50206d02ed89418f65f97c6441d1c&lt;SEP&gt;chunk-da2472b4ef2a535b62908f14d0fb0ca9&lt;SEP&gt;chunk-90b95db5c53e4364a6bee36b7aa4d70f&lt;SEP&gt;chunk-43c9bee23adfa77aa9dedd22401bba7d&lt;SEP&gt;chunk-02baee20cc9463dbe08170a8e1043e32&lt;SEP&gt;chunk-8bc1edd983869352d14cf0886a9175a7</data>
+    </node>
+    <node id="&quot;THE FAIRY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The fairy is mentioned as a young girl in mourning dress, who appears to be the object of Scrooge's affection or past relationship."</data>
+      <data key="d2">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </node>
+    <node id="&quot;SCROOGE'S NEPHEW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Scrooge's nephew is cheerful and merry, contrasting with his uncle's miserly attitude. He interacts directly with Scrooge in this scene."&lt;SEP&gt;"Scrooge's nephew is hosting a Christmas party with games, music, and good spirits. He plays blind man's-buff and Yes and No game."&lt;SEP&gt;"Scrooge's nephew is portrayed as jovial and generous, often laughing and encouraging others to do so. He has a positive relationship with his family but expresses mixed feelings towards Scrooge."</data>
+      <data key="d2">chunk-773d0df1dd25c356f7b771d780583e09&lt;SEP&gt;chunk-43c9bee23adfa77aa9dedd22401bba7d&lt;SEP&gt;chunk-74e2466de2f67fd710ef2f20c0a8d9e0</data>
+    </node>
+    <node id="&quot;CORNHILL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cornhill is a street where Bob Cratchit goes down a slide to celebrate Christmas Eve."</data>
+      <data key="d2">chunk-d9aac3484185ac66045df92214d245d5</data>
+    </node>
+    <node id="&quot;MERRY CHRISTMAS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Merry Christmas is a celebration observed by many, but Scrooge finds no joy in it initially."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;SCHOOLMASTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The schoolmaster is portrayed as stern and ferocious, creating a dreadful state of mind in Master Scrooge."</data>
+      <data key="d2">chunk-c6c248858d1b13ab7ee9ca13c1aeed6b</data>
+    </node>
+    <node id="&quot;THE SPIRIT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Spirit is a benevolent figure who guides Scrooge through his past experiences, aiming to evoke change in him."&lt;SEP&gt;"The Spirit is a supernatural entity that guides Scrooge through various scenes from the past, present, and future."&lt;SEP&gt;"The Spirit is depicted as a joyous entity that brings happiness and brightness wherever it goes during Christmas Eve."</data>
+      <data key="d2">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683&lt;SEP&gt;chunk-19d72c57ae3408758b18d2568e86dc6b&lt;SEP&gt;chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;THE GHOST OF CHRISTMAS PRESENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ghost of Christmas Present appears as a manifestation in Scrooge's room, offering guidance and teaching him lessons."&lt;SEP&gt;"The Ghost of Christmas Present appears to Scrooge and influences his emotions through music and memories."&lt;SEP&gt;"The Ghost of Christmas Present shows Scrooge scenes from the past, present, and future to teach him about life and charity."&lt;SEP&gt;"The Ghost of Christmas Present takes Scrooge on a journey to different locations, showing him various scenes of celebration and hardship."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9&lt;SEP&gt;chunk-43c9bee23adfa77aa9dedd22401bba7d&lt;SEP&gt;chunk-8f738cb25d60a7dab782162d9d0a25ed&lt;SEP&gt;chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;THE TABLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The table is where the mother lays her work and where the family gathers for their conversation."</data>
+      <data key="d2">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+    </node>
+    <node id="&quot;JACOB MARLEY'S GHOST&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jacob Marley's Ghost is a spectral apparition that visits Scrooge to warn him about his future fate if he doesn't change his ways."</data>
+      <data key="d2">chunk-cb661c37436355ccec2769b1d0350c5f</data>
+    </node>
+    <node id="&quot;OLD JOE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Old Joe is a scavenger who appraises items brought by others, showing lack of remorse for their actions."&lt;SEP&gt;"Old Joe is involved in sorting through items taken from the deceased man's belongings."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc&lt;SEP&gt;chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64</data>
+    </node>
+    <node id="&quot;WEALTH&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Wealth is mentioned as an idol that has displaced the Fairy, which Scrooge seems to regret."</data>
+      <data key="d2">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </node>
+    <node id="&quot;SCROOGE'S NIECE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Scrooge's niece is participating in the games at the Christmas party. She is skilled at How, When, and Where game and loves her love to admiration with all the letters of the alphabet."&lt;SEP&gt;"Scrooge's niece is pretty and expressive, often reacting indignantly or with humor to her uncle's behavior. She shares a close bond with her sisters and has a strong opinion about Scrooge's character."</data>
+      <data key="d2">chunk-773d0df1dd25c356f7b771d780583e09&lt;SEP&gt;chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;CAROLINE CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Caroline Cratchit shows relief at the news of her husband's creditor being dead, but feels guilty afterwards."</data>
+      <data key="d2">chunk-83ac129dc9b56f84c46760d153d68e93</data>
+    </node>
+    <node id="&quot;SCHOOL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The school mentioned is not quite deserted and has a solitary child left behind during Christmas."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;BELLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Belle is Scrooge's fiancée who leaves him because of his growing meanness."&lt;SEP&gt;"Belle is Scrooge's former fiancée, now married with a child. She is described as graceful and full of promise."&lt;SEP&gt;"Belle is an old sweetheart of Scrooge's who ended their relationship due to his obsession with money and business."&lt;SEP&gt;"Belle is mentioned as someone who once loved Scrooge but left him due to his changed nature and greed."&lt;SEP&gt;"Isabella, Scrooge's former fiancée who broke off their engagement due to his obsession with money."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-da2472b4ef2a535b62908f14d0fb0ca9&lt;SEP&gt;chunk-cb661c37436355ccec2769b1d0350c5f&lt;SEP&gt;chunk-bb21d58d36c6306fd8810ddd51c4a971&lt;SEP&gt;chunk-8f738cb25d60a7dab782162d9d0a25ed</data>
+    </node>
+    <node id="&quot;UNCLE SCROOGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Initially described as an animal and later revealed to be Fred's uncle, Scrooge. He is the focus of the guessing game and later becomes the subject of a toast."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;THE HOB&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The hob is where Mrs. Cratchit keeps Bob's tea ready for him."</data>
+      <data key="d2">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+    </node>
+    <node id="&quot;THE THREE SPIRITS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Three Spirits are supernatural beings who visit Scrooge on consecutive nights, each revealing different aspects of his past, present, and future."</data>
+      <data key="d2">chunk-cb661c37436355ccec2769b1d0350c5f</data>
+    </node>
+    <node id="&quot;SCAVENGING&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Scavenging refers to the practice of searching for and collecting items from the dead, portrayed here as morally questionable."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;HOLLY, MISTLETOE, RED BERRIES, IVY, TURKEYS, GEESE, GAME, POULTRY, BRAWN, MEAT, PIGS, SAUSAGES, OYSTERS, PIES, PUDDINGS, FRUIT, PUNCH&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"These items represent the typical foods and decorations associated with Christmas."</data>
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </node>
+    <node id="&quot;TOPPER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Topper is a member of Scrooge's nephew's family who participates in blind man's-buff game. He pretends to be blind but knows where the plump sister is."&lt;SEP&gt;"Topper is introduced as Scrooge's nephew's friend, with an apparent interest in one of Scrooge's nieces. He joins in the laughter and merriment but does not express any significant opinions or actions."</data>
+      <data key="d2">chunk-773d0df1dd25c356f7b771d780583e09&lt;SEP&gt;chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;THE DEBT COLLECTORS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The debt collectors are mentioned as merciless creditors who could potentially take over Scrooge's debt."</data>
+      <data key="d2">chunk-83ac129dc9b56f84c46760d153d68e93</data>
+    </node>
+    <node id="&quot;BOY (SOLITARY CHILD)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The boy, neglected by his friends, is left at the school during Christmas, evoking pity from Scrooge."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;FRED&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fred is Scrooge's nephew who shows great warmth towards his uncle."&lt;SEP&gt;"Fred is Scrooge's nephew, known for his kindness and generosity, unlike some other members of the family."&lt;SEP&gt;"Fred is introduced as Scrooge's nephew who initiates a game of guessing the identity of his uncle."&lt;SEP&gt;"Fred, Scrooge's nephew, is mentioned as someone who still cares for Scrooge despite his miserly ways."&lt;SEP&gt;"Scrooge's nephew is named Fred, and he is the primary source of joy and laughter in the gathering."</data>
+      <data key="d2">chunk-19fcf3bed0b4df750efc07831690f550&lt;SEP&gt;chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-e7637ff18c5ded77a68cce0a87883fad&lt;SEP&gt;chunk-bb21d58d36c6306fd8810ddd51c4a971&lt;SEP&gt;chunk-773d0df1dd25c356f7b771d780583e09</data>
+    </node>
+    <node id="&quot;SCROOGE’S NEPHEW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Scrooge's nephew participates in the guessing game and reveals that his uncle is Scrooge."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;TIM CRATCHIT (TINY TIM)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tim Cratchit, also known as Tiny Tim, is the youngest son of Bob Cratchit and a cripple with a heart full of love and gratitude."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;PRESENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Present is one of the three realms visited by Scrooge through the second spirit."</data>
+      <data key="d2">chunk-cb661c37436355ccec2769b1d0350c5f</data>
+    </node>
+    <node id="&quot;JANUARY 6TH PROTESTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The January 6th protests at the U.S. Capitol resulted in violence, five deaths, and led to Trump's impeachment by the House of Representatives."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;THE HOUSE-FRONTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The house-fronts refer to the facades of houses in the city streets on Christmas morning."</data>
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </node>
+    <node id="&quot;THE PLUMP SISTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The plump sister is a participant in the blind man's-buff game, pursued by Topper throughout the game."</data>
+      <data key="d2">chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;BOB CRATCHIT'S CHILDREN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bob Cratchit's children are depicted as being quiet and still, with one of them reading from a book."</data>
+      <data key="d2">chunk-83ac129dc9b56f84c46760d153d68e93</data>
+    </node>
+    <node id="&quot;MANSION OF DULL RED BRICK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The mansion is described as once being spacious but now poorly furnished and decaying."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;EBENEZER (YOUNG)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ebenezer in his younger form, working as an apprentice under Fezziwig."</data>
+      <data key="d2">chunk-c6c248858d1b13ab7ee9ca13c1aeed6b</data>
+    </node>
+    <node id="&quot;THE POOR MINER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Poor Miner is an event where Scrooge sees a miner struggling with his heavy load, reflecting on his past charity towards the man."</data>
+      <data key="d2">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;MR. SCROOGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr. Scrooge is introduced as a character who has given merriment to others, with suggestions of being ungrateful if they did not drink his health."&lt;SEP&gt;"Mr. Scrooge is portrayed as an odious, stingy man who is the source of discontent among his family members during Christmas Day."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad&lt;SEP&gt;chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </node>
+    <node id="&quot;MR. FEZZIWIG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mr. Fezziwig is a kind-hearted and jovial old merchant who employs Scrooge briefly before his partnership with Marley."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;FUTURE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Future is one of the three realms visited by Scrooge through the second spirit."</data>
+      <data key="d2">chunk-cb661c37436355ccec2769b1d0350c5f</data>
+    </node>
+    <node id="&quot;THE UNDERTAKER'S MAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Undertaker's Man is a person who enters the shop and participates in the scavenging activity."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;THE WINDOWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The windows refer to those of the houses in the city streets on Christmas morning."</data>
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </node>
+    <node id="&quot;THE CHILD WHO FETCHED SCROOGE FROM THE BOARDING-SCHOOL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A child who was familiar with a simple little air played by Scrooge's niece, as remembered by Scrooge through the Ghost of Christmas Past."</data>
+      <data key="d2">chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;MOOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The moor is a bleak and desert location where miners live, visited by the Ghost of Christmas Present."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;COACH-HOUSES AND SHEDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The coach-houses and sheds at the mansion are overrun with grass, indicating neglect."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;DICK WILKINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dick Wilkins is Ebenezer Scrooge's former self and fellow-'prentice, who is very much attached to him."&lt;SEP&gt;"Dick Wilkins is Ebenezer's fellow-apprentice, who is very attached to Ebenezer."&lt;SEP&gt;"Dick Wilkins was Scrooge's fellow apprentice in the past, with whom he had a falling out over Belle."</data>
+      <data key="d2">chunk-8bc1edd983869352d14cf0886a9175a7&lt;SEP&gt;chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-c6c248858d1b13ab7ee9ca13c1aeed6b</data>
+    </node>
+    <node id="&quot;EBENEZER SCROOGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ebenezer Scrooge is described as a young man working with Dick Wilkins under Fezziwig."&lt;SEP&gt;"Ebenezer Scrooge is portrayed as a miserly and solitary individual, with no warmth towards others. He is the main character of this text."&lt;SEP&gt;"Ebenezer Scrooge is the main character who experiences a mysterious event on Christmas Eve."&lt;SEP&gt;"Ebenezer Scrooge is the protagonist of A Christmas Carol, known for his miserliness, selfishness, and lack of empathy towards others."&lt;SEP&gt;"Scrooge is portrayed as a miserly and selfish man who dislikes Christmas and is initially cold towards his nephew."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-c7b10789a9cb0af6c553730b29bd9034&lt;SEP&gt;chunk-74e2466de2f67fd710ef2f20c0a8d9e0&lt;SEP&gt;chunk-5dac41b3f9eeaf794f0147400b1718cd&lt;SEP&gt;chunk-8bc1edd983869352d14cf0886a9175a7</data>
+    </node>
+    <node id="&quot;IGNORANCE&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Ignorance is described as a boy who clings to the Spirit, appealing from their fathers. He represents the negative influence of ignorance on humanity."&lt;SEP&gt;"Ignorance is portrayed as a boy clinging to the Spirit, appealing for help and carrying a prophecy of doom on his brow."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32&lt;SEP&gt;chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;GHOST OF CHRISTMAS PAST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ghost of Christmas Past shows Scrooge scenes from his life that he has long forgotten or repressed."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;BOB'S FAMILY&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Bob Cratchit's family who Scrooge offers to assist."</data>
+      <data key="d2">chunk-19fcf3bed0b4df750efc07831690f550</data>
+    </node>
+    <node id="&quot;SPIRIT OF CHRISTMAS YET TO COME&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Spirit of Christmas Yet to Come is an entity that shows Scrooge visions of the future, specifically his own death and burial place."</data>
+      <data key="d2">chunk-91572b3cd42786ba4cb2f180ca25cbf4</data>
+    </node>
+    <node id="&quot;GREAT BRITAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Great Britain is mentioned as a geographical location where the snowstorm and chimney smoke are taking place."</data>
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </node>
+    <node id="&quot;THE BOARDING-SCHOOL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The boarding-school is where the child who fetched Scrooge attended, and it was from this place that Scrooge was brought back home."</data>
+      <data key="d2">chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;LIGHTHOUSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The lighthouse stands on a solitary reef, serving as a beacon for ships at sea, with two men inside maintaining a fire and singing a Christmas song."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;ECHOES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Latent echoes in the house affect Scrooge emotionally."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;FEZZIWIG’S WAREHOUSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fezziwig's Warehouse is the location where Fezziwig hosts his annual Christmas party for his employees."</data>
+      <data key="d2">chunk-8bc1edd983869352d14cf0886a9175a7</data>
+    </node>
+    <node id="&quot;GHOST&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Ghost appears in Scrooge's room on Christmas Eve, serving as a catalyst for Scrooge's transformation."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;WANT&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Want is depicted as a girl clinging to the Spirit, appealing for assistance."&lt;SEP&gt;"Want is described as a girl who clings to the Spirit, representing the suffering caused by poverty and desperation."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32&lt;SEP&gt;chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;GHOST OF CHRISTMAS YET TO COME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ghost of Christmas Yet to Come shows Scrooge a grim vision of the future if he continues on his current path."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;THE OFFICE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The location where Scrooge works and interacts with Bob Cratchit."</data>
+      <data key="d2">chunk-19fcf3bed0b4df750efc07831690f550</data>
+    </node>
+    <node id="&quot;TWO YOUNG CRATCHITS&quot;">
+      <data key="d0">"PERSON (PLURAL)"</data>
+      <data key="d1">"The two young Cratchits are portrayed as lively and imaginative children who worry about the safety of the Christmas pudding."&lt;SEP&gt;"The two young Cratchits are siblings who kiss little Bob and share in his happiness."</data>
+      <data key="d2">chunk-91572b3cd42786ba4cb2f180ca25cbf4&lt;SEP&gt;chunk-503f0bfa5453467c7c61d160a3540eca</data>
+    </node>
+    <node id="&quot;THE FIRST WOMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The First Woman is described as bold and defiant, engaging in scavenging with others despite knowing it's wrong."&lt;SEP&gt;"The First Woman is one of the women present with Old Joe, scavenging items from the deceased man's house. She expresses disregard for his possessions and shows no remorse."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc&lt;SEP&gt;chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64</data>
+    </node>
+    <node id="&quot;THE SHORTEST STREETS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The shortest streets refer to narrow streets in the city that are choked up with mist and snow."</data>
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </node>
+    <node id="&quot;THE SEXTON'S SPADE&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"The sexton's spade is a metaphorical tool for burying Jacob Marley, representing the inevitable end of life."</data>
+      <data key="d2">chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;NEPHEW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Scrooge's nephew is portrayed as a cheerful individual who laughs heartily in a bright room, spreading good humour around him."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;MICE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The mice behind the panelling in the house are another source of sound that affects Scrooge."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;MARTHA CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Martha Cratchit is one of Bob and Mrs. Cratchit's daughters, who helps with preparations for the Christmas meal."</data>
+      <data key="d2">chunk-7e2e7ebcc19a53b399dc03aded4743e7</data>
+    </node>
+    <node id="&quot;CHRISTMAS EVE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Christmas Eve is an event celebrated by Bob Cratchit, marking the start of his Christmas holiday."&lt;SEP&gt;"Christmas Eve is celebrated at Fezziwig's warehouse, featuring a grand feast and lively dance with music by a fiddler."&lt;SEP&gt;"Christmas Eve is the event on which Ebenezer Scrooge sits busy in his counting-house, interacting with his nephew."&lt;SEP&gt;"Christmas Eve is the night on which the story takes place, setting the scene for Scrooge's encounter with Marley's ghost."&lt;SEP&gt;"Christmas Eve is the specific day on which Ebenezer Scrooge experiences the mysterious events in his bedchamber."</data>
+      <data key="d2">chunk-d9aac3484185ac66045df92214d245d5&lt;SEP&gt;chunk-c7b10789a9cb0af6c553730b29bd9034&lt;SEP&gt;chunk-74e2466de2f67fd710ef2f20c0a8d9e0&lt;SEP&gt;chunk-9c43dac2fcd5b578242d907ea6f8fc7b&lt;SEP&gt;chunk-8bc1edd983869352d14cf0886a9175a7</data>
+    </node>
+    <node id="&quot;MERRIMENT&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Merriment is the happiness and enjoyment that Uncle Scrooge has brought to others."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;GHOST OF JACOB MARLEY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ghost of Jacob Marley, bound by chains forged in life from his own greed and selfishness, appears to warn Scrooge about the fate that awaits him unless he changes his ways."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;THE GHOST OF MARLEY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ghost of Marley appears to Scrooge on Christmas Eve, communicating with him through various means and delivering a warning."</data>
+      <data key="d2">chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </node>
+    <node id="&quot;APPLE SAUCE&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Apple sauce prepared by Miss Belinda for the Christmas dinner."</data>
+      <data key="d2">chunk-7e2e7ebcc19a53b399dc03aded4743e7</data>
+    </node>
+    <node id="&quot;THE DIRTIER SNOW&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The dirtier snow refers to the snow on the ground that has been mixed with mud and icy water from the streets."</data>
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </node>
+    <node id="&quot;MUSIC&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Music plays an important role in the evening's activities, with Scrooge's niece playing well upon the harp and various tunes being sung by the family."</data>
+      <data key="d2">chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;MINERS&quot;">
+      <data key="d0">"OCCUPATION"</data>
+      <data key="d1">"The miners are a group of people who work hard in the bowels of the earth, living on the moor."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;WATERSPOUT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The half-thawed waterspout in the yard behind the house is another source of sound mentioned."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;TINY TIM CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tiny Tim Cratchit is Bob and Mrs. Cratchit's youngest son, who despite his physical limitations, shows wisdom beyond his years."&lt;SEP&gt;"Tiny Tim is mentioned as a sick child who requires care and attention."</data>
+      <data key="d2">chunk-7e2e7ebcc19a53b399dc03aded4743e7&lt;SEP&gt;chunk-83ac129dc9b56f84c46760d153d68e93</data>
+    </node>
+    <node id="&quot;GHOST OF CHRISTMAS PRESENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ghost of Christmas Present appears to Ebenezer Scrooge, showing him scenes of joy and celebration among his employees and others on Christmas Day."&lt;SEP&gt;"The Ghost of Christmas Present shows Scrooge a vision of his past, present, and future."&lt;SEP&gt;"The Ghost of Christmas Present shows Scrooge how others perceive him and the impact of his actions on those around him."</data>
+      <data key="d2">chunk-8bc1edd983869352d14cf0886a9175a7&lt;SEP&gt;chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;GAY AND LIGHT OF HEART&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"This phrase describes the sudden change in Scrooge's mood after hearing his nephew's toast."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;JOE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joe is a marine-store dealer and receiver of stolen goods who has dealings with Scrooge."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;THE HOUSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The house is where Scrooge lives and the events of the story take place."</data>
+      <data key="d2">chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </node>
+    <node id="&quot;PETER CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Cratchit is Bob Cratchit's son, who plays an active role in caring for Tiny Tim."&lt;SEP&gt;"Peter Cratchit is one of Bob Cratchit's daughters, who kisses her brother, little Bob."&lt;SEP&gt;"Peter Cratchit is one of Bob and Mrs. Cratchit's sons, involved in preparing the Christmas meal and eager to participate in the festivities."&lt;SEP&gt;"Peter Cratchit is one of Bob's children who is old enough to understand the family's situation better than his younger siblings."</data>
+      <data key="d2">chunk-91572b3cd42786ba4cb2f180ca25cbf4&lt;SEP&gt;chunk-83ac129dc9b56f84c46760d153d68e93&lt;SEP&gt;chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-7e2e7ebcc19a53b399dc03aded4743e7</data>
+    </node>
+    <node id="&quot;THE GREAT STREETS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The great streets refer to the main thoroughfares in the city where carts and waggons have left deep furrows in the snow."</data>
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </node>
+    <node id="&quot;GLEE OR CATCH&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"A type of musical performance that the family enjoys singing together."</data>
+      <data key="d2">chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;CHILDREN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Multiple children are present in the scene, creating tumultuous noise while playing together."&lt;SEP&gt;"The children are among those gathered around the fire in the hut on the moor, singing Christmas songs with their families."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9&lt;SEP&gt;chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;POPLAR TREE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The leafless poplar tree near the house is described as despondent."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;BREXIT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Brexit refers to the UK's withdrawal from the European Union on January 1st, 2021, with significant implications for trade and travel between the UK and EU."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;JACOB FEZZIWIG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jacob Fezziwig is Ebenezer Scrooge's former employer who treats his employees kindly and hosts a lively Christmas party at his warehouse each year."</data>
+      <data key="d2">chunk-8bc1edd983869352d14cf0886a9175a7</data>
+    </node>
+    <node id="&quot;INAUDIBLE SPEECH&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"An inaudible speech refers to a silent communication or expression that cannot be heard."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;MR. TOPPER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr. Topper is a bachelor who has dealings with Scrooge's business."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;TOPPER'S LOVE INTEREST&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The plump sister with the lace tucker whom Topper seems to have his eye upon. She blushes when he speaks."</data>
+      <data key="d2">chunk-773d0df1dd25c356f7b771d780583e09</data>
+    </node>
+    <node id="&quot;COVID-19 PANDEMIC&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The COVID-19 pandemic continued in 2021, posing challenges due to new variants emerging in various countries and contentious vaccine rollouts."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;THE POUTERERS' SHOPS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Pouterers' shops are establishments that sell poultry, which were still open on Christmas morning."</data>
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </node>
+    <node id="&quot;CASH-BOXES&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Cash-boxes are mentioned as part of Marley's transparent body, representing his life dedicated to wealth and business."</data>
+      <data key="d2">chunk-1aa50206d02ed89418f65f97c6441d1c</data>
+    </node>
+    <node id="&quot;OLD WOMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The old woman is part of the cheerful company assembled round the fire in the hut on the moor, singing Christmas songs."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;STOREHOUSE DOOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The empty storehouse door swinging idly is another sound mentioned in the text."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;THE LAUNDRESS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Laundress joins in the scavenging activity but is not as vocal or defiant as the First Woman."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;MRS. FEZZIWIG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mrs. Fezziwig is Jacob Fezziwig's wife, known for her warmth and kindness towards their employees."&lt;SEP&gt;"Mrs. Fezziwig is mentioned as Fezziwig's wife, helping him host the lively Christmas party."&lt;SEP&gt;"Mrs. Fezziwig is the worthy partner of Mr. Fezziwig, known for her warmth and hospitality."</data>
+      <data key="d2">chunk-8bc1edd983869352d14cf0886a9175a7&lt;SEP&gt;chunk-b2f98bc7abb0c67d4c86055c7fd72218&lt;SEP&gt;chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;ALMSHOUSE, HOSPITAL, AND GAOL&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"These are places visited by the Spirit where it leaves its blessing and teaches Scrooge his precepts."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;CAROLINE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Caroline is the wife of one of Scrooge's debtors, struggling to make ends meet while her husband is in prison."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;SCROOGE'S CLERK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Scrooge employs a clerk who might benefit from Scrooge leaving him some money in his will, as mentioned by Fred."</data>
+      <data key="d2">chunk-773d0df1dd25c356f7b771d780583e09</data>
+    </node>
+    <node id="&quot;MRS. DILBER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mrs. Dilber is a laundress who has dealings with Scrooge's business."&lt;SEP&gt;"Mrs. Dilber is a woman who engages in scavenging and appraising items from the dead, showing a lack of compassion towards others."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc&lt;SEP&gt;chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;JOE BIDEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joe Biden is the newly elected President of the United States, marking a historic shift in leadership."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;THE FRUITERERS'">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fruiterers' shops are establishments that sell fruits and vegetables, which were radiant with their offerings on Christmas morning."</data>
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </node>
+    <node id="&quot;KEYS&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"Keys are mentioned as part of Marley's transparent body, indicating his hold on possessions and control."</data>
+      <data key="d2">chunk-1aa50206d02ed89418f65f97c6441d1c</data>
+    </node>
+    <node id="&quot;SEAWEED&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Great heaps of seaweed cling to the base of the lighthouse, indicating its location near the sea."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;FIRE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The fire in the room where Scrooge's younger self is reading provides warmth and light, contrasting with the bleak atmosphere of the house."</data>
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </node>
+    <node id="&quot;LITTLE BOB&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Little Bob is one of Bob Cratchit's children, who expresses happiness and is kissed by his family members."</data>
+      <data key="d2">chunk-91572b3cd42786ba4cb2f180ca25cbf4</data>
+    </node>
+    <node id="&quot;THE THREE MISS FEZZIWIGS&quot;">
+      <data key="d0">"GROUP OF PERSONS"</data>
+      <data key="d1">"The three daughters of Jacob Fezziwig are described as beaming and lovable young women who join in the Christmas celebration at their father's warehouse."</data>
+      <data key="d2">chunk-8bc1edd983869352d14cf0886a9175a7</data>
+    </node>
+    <node id="&quot;ONE&quot;">
+      <data key="d0">"CATEGORY"</data>
+      <data key="d1">"The number one, mentioned singularly."</data>
+      <data key="d2">chunk-e0a61ff58550112a553d6ec01d2c0891</data>
+    </node>
+    <node id="&quot;BELINDA AND MARTHA CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Belinda and Martha are daughters of Bob Cratchit, described as 'pretty' girls who help out around the house."</data>
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </node>
+    <node id="&quot;FRED (SCROOGE'S NEPHEW)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fred is described as kind, forgiving, and charitable. He tries to persuade Scrooge to be more open-hearted and celebratory of Christmas."</data>
+      <data key="d2">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </node>
+    <node id="&quot;MARLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jacob Marley, Scrooge's former business partner, whose ghost visits Scrooge to warn him about his future."&lt;SEP&gt;"Marley is Scrooge's former business partner, who has died but continues to be referenced in relation to their shared past."&lt;SEP&gt;"Marley is described as Scrooge's deceased business partner, appearing as a ghost seven years after his death."&lt;SEP&gt;"Marley was Scrooge's deceased partner, whose face appears on the door knocker, indicating a past connection and possible supernatural presence."&lt;SEP&gt;"Marley was Scrooge's partner who died seven years ago on this night."</data>
+      <data key="d2">chunk-89777b838d5447c7bd1ec11282c4ee89&lt;SEP&gt;chunk-d9aac3484185ac66045df92214d245d5&lt;SEP&gt;chunk-8f738cb25d60a7dab782162d9d0a25ed&lt;SEP&gt;chunk-5dac41b3f9eeaf794f0147400b1718cd&lt;SEP&gt;chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </node>
+    <node id="&quot;SCROOGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Ebenezer Scrooge, the protagonist of this story, is initially portrayed as a miserly and inhospitable businessman. He interacts with the ghost of Jacob Marley, his former partner, who warns him about his greedy ways. Scrooge is known for refusing to contribute to charitable causes at Christmas, including those related to the poor. He prefers his own company and dislikes the holiday season, finding it melancholy.
+
+However, after being visited by three ghosts on Christmas Eve—Marley's Ghost, the Ghost of Christmas Past, Present, and Yet to Come—Scrooge undergoes a profound transformation. These encounters cause him fear, reflection, astonishment, and eventually, regret for his past actions.
+
+During his visits with the spirits, Scrooge revisits key moments from his life, including his time working under his former boss Fezziwig, who was generous and kind-hearted. He also sees the impacts of his miserly ways on others, particularly his long-suffering employee Bob Cratchit and his family.
+
+Initially out of his wits while reliving his past, Scrooge becomes animated in defense of Fezziwig's generosity. After witnessing his own future grave and being shown visions of Ignorance and Want, he experiences remorse and decides to change his ways.
+
+On Christmas Day, Scrooge walks through his rooms, ensuring all is right before locking himself in for the night. Surprised by Marley's ghost appearing before him, Scrooge eventually accepts the lessons from the spirits. He becomes thoroughly good-natured, enjoying the company of his family during their Christmas celebration.
+
+Scrooge's transformation is marked by his newfound kindness and generosity towards others, particularly Cratchit and his family. He makes amends for his past actions, proving that even the most miserly among us can change for the better.</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52&lt;SEP&gt;chunk-bb21d58d36c6306fd8810ddd51c4a971&lt;SEP&gt;chunk-99b0ec7f7e006561352b5d65e849611d&lt;SEP&gt;chunk-d9aac3484185ac66045df92214d245d5&lt;SEP&gt;chunk-43c9bee23adfa77aa9dedd22401bba7d&lt;SEP&gt;chunk-8f738cb25d60a7dab782162d9d0a25ed&lt;SEP&gt;chunk-843b5b2f944c7413d9ca876e2e2f151f&lt;SEP&gt;chunk-c7b10789a9cb0af6c553730b29bd9034&lt;SEP&gt;chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64&lt;SEP&gt;chunk-91614df5cb74cbe5e109a338a82041e9&lt;SEP&gt;chunk-19fcf3bed0b4df750efc07831690f550&lt;SEP&gt;chunk-89777b838d5447c7bd1ec11282c4ee89&lt;SEP&gt;chunk-da2472b4ef2a535b62908f14d0fb0ca9&lt;SEP&gt;chunk-90d5764e301321c087f5a8f78b73a145&lt;SEP&gt;chunk-cb661c37436355ccec2769b1d0350c5f&lt;SEP&gt;chunk-83ac129dc9b56f84c46760d153d68e93&lt;SEP&gt;chunk-8590d9263cd2cd4fa583c432fc54e6c3&lt;SEP&gt;chunk-54bdd22db1f84a965b5f4c06c9216d8d&lt;SEP&gt;chunk-1aa50206d02ed89418f65f97c6441d1c&lt;SEP&gt;chunk-90b95db5c53e4364a6bee36b7aa4d70f&lt;SEP&gt;chunk-773d0df1dd25c356f7b771d780583e09&lt;SEP&gt;chunk-9c43dac2fcd5b578242d907ea6f8fc7b&lt;SEP&gt;chunk-b2f98bc7abb0c67d4c86055c7fd72218&lt;SEP&gt;chunk-91572b3cd42786ba4cb2f180ca25cbf4&lt;SEP&gt;chunk-02baee20cc9463dbe08170a8e1043e32&lt;SEP&gt;chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </node>
+    <node id="&quot;THE EMPLOYEES&quot;">
+      <data key="d2">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+      <data key="d1">"Fezziwig inspires gratitude in his employees through his generous actions during the Christmas party."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;HIS FORMER SELF&quot;">
+      <data key="d2">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+      <data key="d1">"Scrooge is shown to have changed from his former self, who was more caring and less miserly."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SCROOGE'S FAMILY&quot;">
+      <data key="d2">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+      <data key="d1">"Scrooge's family members, including Fan and Fred, are estranged from him due to his miserliness and lack of empathy towards others."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CHRISTMAS PUDDING&quot;">
+      <data key="d2">chunk-503f0bfa5453467c7c61d160a3540eca</data>
+      <data key="d1">"The two young Cratchits fear that someone might have stolen the Christmas pudding while they were merry with the goose."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SPIRIT’S LIFE&quot;">
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+      <data key="d1">"The Spirit's life on Earth ends at midnight, emphasizing the brevity of its existence compared to Scrooge's doubts about it being a night."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;TIME&quot;">
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+      <data key="d1">"The Spirit's life on Earth ends at midnight, emphasizing the brevity of its existence compared to Scrooge's doubts about it being a night."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;THE FOUNDER OF THE FEAST&quot;">
+      <data key="d2">chunk-503f0bfa5453467c7c61d160a3540eca</data>
+      <data key="d1">"Scrooge is referred to as 'The Founder of the Feast' by Bob Cratchit, indicating his role in providing for the feast despite his miserly nature."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;THE INSECT ON THE LEAF&quot;">
+      <data key="d2">chunk-503f0bfa5453467c7c61d160a3540eca</data>
+      <data key="d1">"The Ghost of Christmas Present uses the metaphor of 'the insect on the leaf' to rebuke Scrooge for his arrogant attitude towards the poor and needy."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;THE CUSTOMERS AT THE GROCERS'">
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+      <data key="d1">"Scrooge's miserly nature contrasts with the cheerful and hurried customers at the grocer's shop on Christmas morning."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;THE SKY&quot;">
+      <data key="d2">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+      <data key="d1">"The gloomy sky contrasts with the black appearance of the windows in the city streets on Christmas morning."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;YOUNGER SCROOGE&quot;">
+      <data key="d2">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+      <data key="d1">"In Scrooge's vision, Ali Baba appears to Younger Scrooge during Christmas time."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;EVERYONE&quot;">
+      <data key="d2">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+      <data key="d1">"The Spirit brings happiness and brightness to everyone it encounters during Christmas Eve."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;EMPLOYEES&quot;">
+      <data key="d2">chunk-8bc1edd983869352d14cf0886a9175a7</data>
+      <data key="d1">"Jacob Fezziwig treats his employees kindly and hosts an annual Christmas party for them, fostering a positive work environment."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SHIPS&quot;">
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+      <data key="d1">"The lighthouse serves as a beacon for ships at sea, ensuring their safe passage through treacherous waters."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;FAMILY&quot;">
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+      <data key="d1">"The children are part of their families gathered around the fire on the moor, celebrating Christmas together."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SOURCE ENTITY&quot;">
+      <data key="d2">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+      <data key="d1">"Relationship Description"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;TARGET ENTITY&quot;">
+      <data key="d2">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+      <data key="d1">"Relationship Description"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;FIRST SPEAKER (IN THE FIRST CONVERSATION)&quot;" target="&quot;JACOB&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"The first speaker expresses disinterest in discussing Jacob's money, indicating his lack of care for Jacob's fate."</data>
+      <data key="d5">"disinterest, lack of concern"</data>
+      <data key="d6">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </edge>
+    <edge source="&quot;STORM-BIRDS&quot;" target="&quot;LIGHTHOUSE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The storm-birds circling around the lighthouse suggest a harsh environment where the light is crucial for navigation."</data>
+      <data key="d5">"environmental indication, navigational aid"</data>
+      <data key="d6">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </edge>
+    <edge source="&quot;THE GENTLEMAN&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Scrooge refuses to contribute to charitable causes, refusing the gentleman's request for donations."</data>
+      <data key="d5">"charity refusal, miserly attitude"</data>
+      <data key="d6">chunk-90d5764e301321c087f5a8f78b73a145</data>
+    </edge>
+    <edge source="&quot;SPIRIT&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Scrooge experiences torture from the Spirit as it forces him to observe scenes."</data>
+      <data key="d5">"torture, forced observation"</data>
+      <data key="d6">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </edge>
+    <edge source="&quot;FEZZIWIG&quot;" target="&quot;THE EMPLOYEES&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Fezziwig inspires gratitude in his employees through his generous actions during the Christmas party."</data>
+      <data key="d5">"generosity, employee appreciation"</data>
+      <data key="d6">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </edge>
+    <edge source="&quot;FEZZIWIG&quot;" target="&quot;MRS. FEZZIWIG&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mrs. Fezziwig helps her husband host the lively Christmas party, showing a collaborative effort in their relationship."</data>
+      <data key="d5">"collaboration, family harmony"</data>
+      <data key="d6">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </edge>
+    <edge source="&quot;FEZZIWIG&quot;" target="&quot;THE TWO APPRENTICES&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The two apprentices express gratitude towards Fezziwig for his generosity during the Christmas party."</data>
+      <data key="d5">"gratitude, employee appreciation"</data>
+      <data key="d6">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </edge>
+    <edge source="&quot;FEZZIWIG&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Scrooge recalls Fezziwig as a generous employer and the source of some of his happiest memories from his past."</data>
+      <data key="d5">"fond memories, generosity"</data>
+      <data key="d6">chunk-cb661c37436355ccec2769b1d0350c5f</data>
+    </edge>
+    <edge source="&quot;SECOND SPEAKER (IN THE FIRST CONVERSATION)&quot;" target="&quot;JACOB&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The second speaker jokes about attending Jacob's funeral, showing a lack of respect for him."</data>
+      <data key="d5">"mockery, disrespect"</data>
+      <data key="d6">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </edge>
+    <edge source="&quot;PRISONS&quot;" target="&quot;THE POOR&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Prisons are mentioned as places where many people suffer due to poverty and lack of resources."</data>
+      <data key="d5">"suffering, institutionalization"</data>
+      <data key="d6">chunk-90d5764e301321c087f5a8f78b73a145</data>
+    </edge>
+    <edge source="&quot;MARLEY'S GHOST&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Scrooge encounters Marley's Ghost, causing him distress and confusion about his reality."</data>
+      <data key="d5">"supernatural encounter, distortion of perception"</data>
+      <data key="d6">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </edge>
+    <edge source="&quot;A BEAUTIFUL YOUNG GIRL&quot;" target="&quot;CHILDREN&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The beautiful young girl is part of the boisterous group of children playing together."</data>
+      <data key="d5">"group dynamics, playfulness"</data>
+      <data key="d6">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </edge>
+    <edge source="&quot;THIRD SPEAKER (IN THE FIRST CONVERSATION)&quot;" target="&quot;JACOB&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"The third speaker offers to attend Jacob's funeral if others join him, indicating his willingness to participate but not take full responsibility."</data>
+      <data key="d5">"conditional participation, lack of initiative"</data>
+      <data key="d6">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </edge>
+    <edge source="&quot;UNION WORKHOUSES&quot;" target="&quot;THE POOR&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Union workhouses provide aid to the poor, but many cannot access these institutions and would rather die than resort to them."</data>
+      <data key="d5">"aid provision, accessibility issue"</data>
+      <data key="d6">chunk-90d5764e301321c087f5a8f78b73a145</data>
+    </edge>
+    <edge source="&quot;FATHER&quot;" target="&quot;CHILDREN&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The father is greeted by his children upon arriving home with Christmas toys and presents."</data>
+      <data key="d5">"family reunion, gift-giving"</data>
+      <data key="d6">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </edge>
+    <edge source="&quot;SCROOGE'S CLERK'S DWELLING&quot;" target="&quot;BOB CRATCHIT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Ghost of Christmas Present blesses Bob Cratchit's dwelling with his torch."</data>
+      <data key="d5">"home blessing"</data>
+      <data key="d6">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </edge>
+    <edge source="&quot;FOURTH SPEAKER (IN THE SECOND CONVERSATION)&quot;" target="&quot;FIFTH SPEAKER (IN THE SECOND CONVERSATION)&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"The fourth and fifth speakers meet briefly on the street and discuss trivial matters before parting ways, indicating their acquaintance but lack of meaningful interaction."</data>
+      <data key="d5">"superficial interaction, acquaintanceship"</data>
+      <data key="d6">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </edge>
+    <edge source="&quot;THE WOMAN&quot;" target="&quot;OLD JOE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Old Joe and The Woman work together to sort through the deceased man's items, dividing their gains on the ground."</data>
+      <data key="d5">"cooperation, division of spoils"</data>
+      <data key="d6">chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64</data>
+    </edge>
+    <edge source="&quot;THE CITY&quot;" target="&quot;BOB CRATCHIT&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Bob Cratchit works in Scrooge's counting-house located within The City, experiencing cold working conditions due to Scrooge's control over the coal-box."</data>
+      <data key="d5">"employment, poor working environment"</data>
+      <data key="d6">chunk-74e2466de2f67fd710ef2f20c0a8d9e0</data>
+    </edge>
+    <edge source="&quot;BELINDA CRATCHIT&quot;" target="&quot;MRS. CRATCHIT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mrs. Cratchit and Belinda work together to set the table for Christmas dinner."</data>
+      <data key="d5">"family cooperation"</data>
+      <data key="d6">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </edge>
+    <edge source="&quot;BOB&quot;" target="&quot;MR. SCROOGE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Bob has a mild answer to his wife's harsh words about Mr. Scrooge, showing his understanding and mediation skills."</data>
+      <data key="d5">"family dynamics, conflict resolution"</data>
+      <data key="d6">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </edge>
+    <edge source="&quot;TINY TIM&quot;" target="&quot;MR. SCROOGE&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"Tiny Tim is indifferent towards Mr. Scrooge despite being part of the poor family."</data>
+      <data key="d5">"indifference, family dynamics"</data>
+      <data key="d6">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </edge>
+    <edge source="&quot;TINY TIM&quot;" target="&quot;THE MOTHER&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The mother expresses concern for Tiny Tim's health and remembers him fondly after his passing."</data>
+      <data key="d5">"motherly love, remembrance"</data>
+      <data key="d6">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+    </edge>
+    <edge source="&quot;TINY TIM&quot;" target="&quot;BOB CRATCHIT&quot;">
+      <data key="d3">36.0</data>
+      <data key="d4">"Bob Cratchit cares deeply for his disabled son Tiny Tim, demonstrating love and concern for his well-being despite their struggles."&lt;SEP&gt;"Bob Cratchit is Tiny Tim's father who loves him deeply and remembers him fondly after his passing."&lt;SEP&gt;"Bob Cratchit is shown to love and care for Tiny Tim, hoping that he will live despite his poor health condition."&lt;SEP&gt;"Bob Cratchit shows love and affection towards Tiny Tim, indicating a strong familial bond."</data>
+      <data key="d5">"family affection"&lt;SEP&gt;"fatherly love, remembrance"&lt;SEP&gt;"love, concern"&lt;SEP&gt;"parental love, family bond"</data>
+      <data key="d6">chunk-1d4b58de5429cd1261370c231c8673e8&lt;SEP&gt;chunk-91572b3cd42786ba4cb2f180ca25cbf4&lt;SEP&gt;chunk-8bc1edd983869352d14cf0886a9175a7&lt;SEP&gt;chunk-503f0bfa5453467c7c61d160a3540eca</data>
+    </edge>
+    <edge source="&quot;THE DECEASED MAN&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Scrooge sees parallels between his own life and the fate of The Deceased Man, causing him horror and fear."</data>
+      <data key="d5">"comparison, existential dread"</data>
+      <data key="d6">chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64</data>
+    </edge>
+    <edge source="&quot;CHRISTMAS&quot;" target="&quot;THE GOOSE&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The Goose is the centerpiece of the Cratchit family's Christmas dinner celebration."</data>
+      <data key="d5">"symbol, celebration"</data>
+      <data key="d6">chunk-503f0bfa5453467c7c61d160a3540eca</data>
+    </edge>
+    <edge source="&quot;CHRISTMAS&quot;" target="&quot;FRED (SCROOGE'S NEPHEW)&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Fred tries to persuade Scrooge to embrace the spirit of Christmas, which he believes is about kindness and charity."</data>
+      <data key="d5">"emotional appeal, spiritual significance"</data>
+      <data key="d6">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </edge>
+    <edge source="&quot;CHRISTMAS&quot;" target="&quot;BOB'S FAMILY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Bob's family celebrates Christmas as an important event that brings them closer together."</data>
+      <data key="d5">"celebration, bonding"</data>
+      <data key="d6">chunk-503f0bfa5453467c7c61d160a3540eca</data>
+    </edge>
+    <edge source="&quot;CHRISTMAS&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Scrooge has a complex relationship with Christmas, initially dismissing it but later showing regret and wishing he could have helped a caroler."</data>
+      <data key="d5">"emotional conflict, redemption"</data>
+      <data key="d6">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </edge>
+    <edge source="&quot;CHRISTMAS&quot;" target="&quot;THE CHILDREN&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The children enjoy and celebrate Christmas together, highlighting the joy and warmth of the holiday season."</data>
+      <data key="d5">"celebration, happiness"</data>
+      <data key="d6">chunk-da2472b4ef2a535b62908f14d0fb0ca9</data>
+    </edge>
+    <edge source="&quot;SPIRIT! &quot;" target="&quot;IGNORANCE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Spirit considers Ignorance one of its wards, warning Scrooge about him specifically."</data>
+      <data key="d5">"wardship, warning"</data>
+      <data key="d6">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </edge>
+    <edge source="&quot;MASTER PETER CRATCHIT&quot;" target="&quot;THE TWO SMALLER CRATCHITS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Peter Cratchit is praised by his younger siblings for his gallantly attired shirt collar."</data>
+      <data key="d5">"family admiration"</data>
+      <data key="d6">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </edge>
+    <edge source="&quot;JACOB&quot;" target="&quot;OLD SCRATCH&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Jacob's death is mentioned in conjunction with 'old Scratch,' implying a connection between his fate and something bad or nefarious."</data>
+      <data key="d5">"death, connection to negativity"</data>
+      <data key="d6">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </edge>
+    <edge source="&quot;JACOB&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Scrooge is the narrator of the story and has a personal history with Jacob, his deceased business partner."</data>
+      <data key="d5">"narrative focus, past partnership"</data>
+      <data key="d6">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </edge>
+    <edge source="&quot;PETER&quot;" target="&quot;MR. SCROOGE'S NEPHEW&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Peter hopes that Mr. Scrooge's nephew can help him find better employment opportunities."</data>
+      <data key="d5">"employment prospects, social mobility"</data>
+      <data key="d6">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+    </edge>
+    <edge source="&quot;THE GHOST OF CHRISTMAS YET TO COME&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Ghost leads Scrooge through the city to show him future events."</data>
+      <data key="d5">"leadership, revelation"</data>
+      <data key="d6">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </edge>
+    <edge source="&quot;CHRISTMAS TIME&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Scrooge vows to live differently during and after Christmas Time, showing its significance in his life."</data>
+      <data key="d5">"redemption, life change"</data>
+      <data key="d6">chunk-91572b3cd42786ba4cb2f180ca25cbf4</data>
+    </edge>
+    <edge source="&quot;CANDLE&quot;" target="&quot;BOB CRATCHIT&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"Bob Cratchit uses the candle to warm himself as his fire is too small due to Scrooge's control over the coal-box."</data>
+      <data key="d5">"improvised warmth, limited resources"</data>
+      <data key="d6">chunk-74e2466de2f67fd710ef2f20c0a8d9e0</data>
+    </edge>
+    <edge source="&quot;THE PORCH&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Scrooge has an expectation that his new-born resolutions will be carried out in this location, but he does not find his likeness there."</data>
+      <data key="d5">"expected change, unfulfilled expectation"</data>
+      <data key="d6">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </edge>
+    <edge source="&quot;THE POOR&quot;" target="&quot;FRED (SCROOGE'S NEPHEW)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Fred believes that it is desirable to make provision for the poor at Christmas time."</data>
+      <data key="d5">"charitable intent, seasonal focus"</data>
+      <data key="d6">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </edge>
+    <edge source="&quot;ALI BABA&quot;" target="&quot;YOUNGER SCROOGE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"In Scrooge's vision, Ali Baba appears to Younger Scrooge during Christmas time."</data>
+      <data key="d5">"childhood memories, story characters"</data>
+      <data key="d6">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </edge>
+    <edge source="&quot;THE LAMPLIGHTER&quot;" target="&quot;THE SPIRIT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Lamplighter laughs out loud as the Spirit passes, showing his enjoyment and positive reaction to the Ghost's presence."</data>
+      <data key="d5">"positive reaction, joy"</data>
+      <data key="d6">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </edge>
+    <edge source="&quot;THE CLOCK&quot;" target="&quot;NIGHT&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Clock stopping due to an icicle disrupts Scrooge's understanding of the time of day, leading to his confusion about Night."</data>
+      <data key="d5">"time disruption, perceptual distortion"</data>
+      <data key="d6">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </edge>
+    <edge source="&quot;THE GOOSE&quot;" target="&quot;MRS. CRATCHIT&quot;">
+      <data key="d3">17.0</data>
+      <data key="d4">"Mrs. Cratchit prepares and serves The Goose as the main dish for Christmas dinner."&lt;SEP&gt;"Mrs. Cratchit prepares the goose for Christmas dinner with great care, causing anticipation among her family members."</data>
+      <data key="d5">"meal preparation, family excitement"&lt;SEP&gt;"preparation, serving"</data>
+      <data key="d6">chunk-7e2e7ebcc19a53b399dc03aded4743e7&lt;SEP&gt;chunk-503f0bfa5453467c7c61d160a3540eca</data>
+    </edge>
+    <edge source="&quot;THE GOOSE&quot;" target="&quot;TINY TIM CRATCHIT&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Tiny Tim, despite his physical limitations, eagerly participates in the excitement surrounding the goose at Christmas dinner."</data>
+      <data key="d5">"childhood enthusiasm, family tradition"</data>
+      <data key="d6">chunk-7e2e7ebcc19a53b399dc03aded4743e7</data>
+    </edge>
+    <edge source="&quot;THE GHOST&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Scrooge interacts with The Ghost who guides him through visions related to his past and Christmas."&lt;SEP&gt;"Scrooge interacts with the Ghost, experiencing fear and learning lessons about life and death."</data>
+      <data key="d5">"guidance, reflection"&lt;SEP&gt;"visionary encounters, guidance"</data>
+      <data key="d6">chunk-83ac129dc9b56f84c46760d153d68e93&lt;SEP&gt;chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </edge>
+    <edge source="&quot;THE GHOST&quot;" target="&quot;MR. SCROOGE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Ghost guides Scrooge through various scenes and teaches him lessons about humanity and its suffering."</data>
+      <data key="d5">"spiritual guidance, life lessons"</data>
+      <data key="d6">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </edge>
+    <edge source="&quot;CHRISTMAS DAY&quot;" target="&quot;THE OFFICE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"On Christmas Day, Scrooge shows kindness and raises Bob Cratchit's salary at their office location."</data>
+      <data key="d5">"location of transformation, generosity"</data>
+      <data key="d6">chunk-19fcf3bed0b4df750efc07831690f550</data>
+    </edge>
+    <edge source="&quot;FAN&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Scrooge feels remorse for not treating his sister Fan better while she was alive."</data>
+      <data key="d5">"guilt, regret"</data>
+      <data key="d6">chunk-da2472b4ef2a535b62908f14d0fb0ca9</data>
+    </edge>
+    <edge source="&quot;MRS. CRATCHIT&quot;" target="&quot;MR. SCROOGE&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Mrs. Cratchit expresses her displeasure towards Mr. Scrooge's stinginess during Christmas Day."</data>
+      <data key="d5">"family tension, criticism"</data>
+      <data key="d6">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </edge>
+    <edge source="&quot;MRS. CRATCHIT&quot;" target="&quot;BOB CRATCHIT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Bob Cratchit is married to Mrs. Cratchit and shares a loving relationship with her and their children."</data>
+      <data key="d5">"marriage, family bond"</data>
+      <data key="d6">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+    </edge>
+    <edge source="&quot;THE GHOST OF CHRISTMAS PAST&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Scrooge encounters The Ghost of Christmas Past who guides him through his past experiences, leading to reflection on his life."&lt;SEP&gt;"Scrooge encounters the Ghost of Christmas Past, which shows him scenes from his past, causing him distress and remorse."</data>
+      <data key="d5">"haunting, memory exploration"&lt;SEP&gt;"spiritual encounter, life reflection"</data>
+      <data key="d6">chunk-da2472b4ef2a535b62908f14d0fb0ca9&lt;SEP&gt;chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </edge>
+    <edge source="&quot;THE CHILDREN&quot;" target="&quot;MR. SCROOGE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The children are negatively affected by Mr. Scrooge's stinginess and lack of generosity during Christmas Day."</data>
+      <data key="d5">"family dynamics, impact of Scrooge's actions"</data>
+      <data key="d6">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </edge>
+    <edge source="&quot;BOB CRATCHIT&quot;" target="&quot;EBENEZER SCROOGE&quot;">
+      <data key="d3">17.0</data>
+      <data key="d4">"Bob Cratchit works as a clerk for Ebenezer Scrooge, but receives minimal pay and has to care for his family on very little money."&lt;SEP&gt;"Scrooge employs Bob Cratchit as his clerk, providing him with a very small fire due to control over the coal-box."&lt;SEP&gt;"Scrooge underpays Bob Cratchit and does not provide him with adequate heating in the office."</data>
+      <data key="d5">"employer-employee dynamics, inadequate compensation"&lt;SEP&gt;"employment dynamics, exploitation"&lt;SEP&gt;"employment, poor working conditions"</data>
+      <data key="d6">chunk-9e3921da66da5d761ab73cd849af6c43&lt;SEP&gt;chunk-74e2466de2f67fd710ef2f20c0a8d9e0&lt;SEP&gt;chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </edge>
+    <edge source="&quot;BOB CRATCHIT&quot;" target="&quot;TINY TIM CRATCHIT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Bob Cratchit is deeply devoted to his youngest son Tiny Tim, carrying him on his shoulders and speaking proudly about his wisdom."</data>
+      <data key="d5">"parental love, pride in child’s wisdom"</data>
+      <data key="d6">chunk-7e2e7ebcc19a53b399dc03aded4743e7</data>
+    </edge>
+    <edge source="&quot;BOB CRATCHIT&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">31.0</data>
+      <data key="d4">"After his transformation, Scrooge shows kindness towards Bob Cratchit by sending him a large turkey for Christmas dinner."&lt;SEP&gt;"Scrooge employs Bob Cratchit as his clerk, but treats him poorly despite his dedication and enthusiasm."&lt;SEP&gt;"Scrooge raises Bob's salary and offers to assist his struggling family after their interaction on Christmas morning."&lt;SEP&gt;"Scrooge wishes to speak to Bob Cratchit, suggesting a desire for communication or change in their relationship."</data>
+      <data key="d5">"charity, generosity"&lt;SEP&gt;"communication, employee relations"&lt;SEP&gt;"employer-employee relationship, kindness"&lt;SEP&gt;"employment, inhospitable treatment"</data>
+      <data key="d6">chunk-19fcf3bed0b4df750efc07831690f550&lt;SEP&gt;chunk-b2f98bc7abb0c67d4c86055c7fd72218&lt;SEP&gt;chunk-90b95db5c53e4364a6bee36b7aa4d70f&lt;SEP&gt;chunk-d9aac3484185ac66045df92214d245d5</data>
+    </edge>
+    <edge source="&quot;BOB CRATCHIT&quot;" target="&quot;CHRISTMAS EVE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Bob Cratchit celebrates Christmas Eve enthusiastically, contrasting with Scrooge's miserly attitude."</data>
+      <data key="d5">"celebration, contrast in attitudes"</data>
+      <data key="d6">chunk-d9aac3484185ac66045df92214d245d5</data>
+    </edge>
+    <edge source="&quot;BOB CRATCHIT&quot;" target="&quot;CAROLINE CRATCHIT&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Bob and Caroline Cratchit are married and have children together, showing mutual care and concern for each other."</data>
+      <data key="d5">"marriage, family dynamics"</data>
+      <data key="d6">chunk-83ac129dc9b56f84c46760d153d68e93</data>
+    </edge>
+    <edge source="&quot;BOB CRATCHIT&quot;" target="&quot;PETER CRATCHIT&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Bob has a closer relationship with Peter compared to his younger siblings due to Peter's age and understanding of the family situation."</data>
+      <data key="d5">"father-son bond, responsibility"</data>
+      <data key="d6">chunk-83ac129dc9b56f84c46760d153d68e93</data>
+    </edge>
+    <edge source="&quot;DICK&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Scrooge is shown to have changed from his former self (Dick), who was more caring and less miserly."</data>
+      <data key="d5">"character development, attitude shift"</data>
+      <data key="d6">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </edge>
+    <edge source="&quot;CHRISTMAS PRESENT&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Scrooge reflects on his past during the time of Christmas Present, comparing his current lifestyle with his happier memories from Christmas Past."</data>
+      <data key="d5">"comparison, reflection"</data>
+      <data key="d6">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </edge>
+    <edge source="&quot;JACOB MARLEY&quot;" target="&quot;EBENEZER SCROOGE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Ebenezer Scrooge was once in partnership with Jacob Marley, but Marley's death and the subsequent appearance of his ghost serve as a warning to Scrooge about the consequences of his own greed and selfishness."</data>
+      <data key="d5">"business partnership, warning"</data>
+      <data key="d6">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </edge>
+    <edge source="&quot;JACOB MARLEY&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Jacob Marley appears before Scrooge as a ghost to warn him about his future fate if he continues his current lifestyle."&lt;SEP&gt;"Scrooge interacts with the ghost of Jacob Marley, who warns him about the consequences of his miserly lifestyle."</data>
+      <data key="d5">"warning, life lesson"&lt;SEP&gt;"warning, redemption"</data>
+      <data key="d6">chunk-1aa50206d02ed89418f65f97c6441d1c&lt;SEP&gt;chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </edge>
+    <edge source="&quot;THE FAIRY&quot;" target="&quot;WEALTH&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Fairy feels displaced by wealth as it has taken Scrooge's affection away from her."</data>
+      <data key="d5">"competition, regret"</data>
+      <data key="d6">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </edge>
+    <edge source="&quot;SCROOGE'S NEPHEW&quot;" target="&quot;EBENEZER SCROOGE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Scrooge interacts with his nephew on Christmas Eve, expressing his disdain for the holiday and displaying his miserly attitude."</data>
+      <data key="d5">"family interaction, differing perspectives"</data>
+      <data key="d6">chunk-74e2466de2f67fd710ef2f20c0a8d9e0</data>
+    </edge>
+    <edge source="&quot;SCROOGE'S NEPHEW&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">13.0</data>
+      <data key="d4">"Scrooge joins in the games and merrymaking with his nephew during their Christmas celebration."&lt;SEP&gt;"Scrooge's nephew has a complicated relationship with his uncle, showing pity for him while also acknowledging his unpleasant qualities. They do not seem to have much interaction despite Scrooge's nephew's yearly invitations."</data>
+      <data key="d5">"family bonding, shared enjoyment"&lt;SEP&gt;"family bonds, mixed feelings, yearly invitations"</data>
+      <data key="d6">chunk-773d0df1dd25c356f7b771d780583e09&lt;SEP&gt;chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </edge>
+    <edge source="&quot;SCROOGE'S NEPHEW&quot;" target="&quot;THE GHOST OF CHRISTMAS PRESENT&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Ghost influences Scrooge's nephew to host a lively Christmas party."</data>
+      <data key="d5">"influence on behavior, joyful atmosphere"</data>
+      <data key="d6">chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </edge>
+    <edge source="&quot;SCROOGE'S NEPHEW&quot;" target="&quot;SCROOGE'S NIECE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Scrooge's nephew shares a close bond with his niece and her sisters. They enjoy each other's company and share laughter and music together."</data>
+      <data key="d5">"family bonds, shared joy, mutual respect"</data>
+      <data key="d6">chunk-773d0df1dd25c356f7b771d780583e09</data>
+    </edge>
+    <edge source="&quot;MERRY CHRISTMAS&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Scrooge initially finds no joy in Merry Christmas but later shows regret and wish to help others celebrate it."</data>
+      <data key="d5">"emotional conflict, redemption"</data>
+      <data key="d6">chunk-8590d9263cd2cd4fa583c432fc54e6c3</data>
+    </edge>
+    <edge source="&quot;THE SPIRIT&quot;" target="&quot;EVERYONE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Spirit brings happiness and brightness to everyone it encounters during Christmas Eve."</data>
+      <data key="d5">"spreads joy, positivity"</data>
+      <data key="d6">chunk-19d72c57ae3408758b18d2568e86dc6b</data>
+    </edge>
+    <edge source="&quot;THE SPIRIT&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Scrooge observes and interacts with the Spirit, which guides him through various scenes to reveal truths about himself and others."</data>
+      <data key="d5">"guided observation, spiritual connection"</data>
+      <data key="d6">chunk-f1a4fbcf1ed86864b9bfd5e8dba4c683</data>
+    </edge>
+    <edge source="&quot;THE GHOST OF CHRISTMAS PRESENT&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Scrooge encounters the Ghost of Christmas Present in his room after following its strange voice."&lt;SEP&gt;"Scrooge interacts with the Ghost of Christmas Present, being taken on journeys and experiencing various emotions."</data>
+      <data key="d5">"encounter, spiritual guidance"&lt;SEP&gt;"ghostly interaction, emotional experience"</data>
+      <data key="d6">chunk-91614df5cb74cbe5e109a338a82041e9&lt;SEP&gt;chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </edge>
+    <edge source="&quot;JACOB MARLEY'S GHOST&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Scrooge is visited by Jacob Marley's Ghost to warn him about the consequences of his current lifestyle and offer a chance for redemption."</data>
+      <data key="d5">"warning, chance at redemption"</data>
+      <data key="d6">chunk-cb661c37436355ccec2769b1d0350c5f</data>
+    </edge>
+    <edge source="&quot;OLD JOE&quot;" target="&quot;SCAVENGING&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Old Joe is directly involved in the scavenging activity, appraising items brought by others."</data>
+      <data key="d5">"illegal activity, moral indifference"</data>
+      <data key="d6">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </edge>
+    <edge source="&quot;SCROOGE'S NIECE&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Scrooge enjoys the company of his niece during their Christmas celebration."&lt;SEP&gt;"Scrooge's niece shares her uncle's disapproval of his attitude towards Christmas and others. She expresses strong opinions about him but does not seem to have much interaction with him."</data>
+      <data key="d5">"family bonding, shared enjoyment"&lt;SEP&gt;"family bonds, disapproval, limited interaction"</data>
+      <data key="d6">chunk-773d0df1dd25c356f7b771d780583e09&lt;SEP&gt;chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </edge>
+    <edge source="&quot;SCROOGE'S NIECE&quot;" target="&quot;TOPPER&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"Topper seems to have an interest in one of Scrooge's nieces but does not express any significant feelings or actions towards her."</data>
+      <data key="d5">"possible romantic interest, limited interaction"</data>
+      <data key="d6">chunk-773d0df1dd25c356f7b771d780583e09</data>
+    </edge>
+    <edge source="&quot;CAROLINE CRATCHIT&quot;" target="&quot;TINY TIM CRATCHIT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Caroline shows concern for Tiny Tim's health and well-being."</data>
+      <data key="d5">"motherly love, caretaking"</data>
+      <data key="d6">chunk-83ac129dc9b56f84c46760d153d68e93</data>
+    </edge>
+    <edge source="&quot;BELLE&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">23.0</data>
+      <data key="d4">"Scrooge and Belle were once engaged, but she ended the relationship after noticing Scrooge's growing love for money."&lt;SEP&gt;"Scrooge recalls his past relationship with Belle, which ended due to his growing greed and miserliness."&lt;SEP&gt;"Scrooge's relationship with Belle ends due to his increasing meanness and focus on money."</data>
+      <data key="d5">"past relationship, estrangement"&lt;SEP&gt;"past romance, change in character"&lt;SEP&gt;"romantic relationship, lost love"</data>
+      <data key="d6">chunk-8f738cb25d60a7dab782162d9d0a25ed&lt;SEP&gt;chunk-cb661c37436355ccec2769b1d0350c5f&lt;SEP&gt;chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </edge>
+    <edge source="&quot;UNCLE SCROOGE&quot;" target="&quot;MERRIMENT&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Scrooge has given merriment to others, for which they are ungrateful if they do not drink his health."</data>
+      <data key="d5">"source of happiness, ingratitude"</data>
+      <data key="d6">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </edge>
+    <edge source="&quot;UNCLE SCROOGE&quot;" target="&quot;GAY AND LIGHT OF HEART&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Scrooge becomes gay and light of heart after hearing his nephew's toast."</data>
+      <data key="d5">"change in mood, positive influence"</data>
+      <data key="d6">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </edge>
+    <edge source="&quot;UNCLE SCROOGE&quot;" target="&quot;FRED&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Fred initiates a game of guessing his uncle's identity, which eventually reveals Uncle Scrooge to be Mr. Scrooge."</data>
+      <data key="d5">"guessing game, reveal"</data>
+      <data key="d6">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </edge>
+    <edge source="&quot;SCAVENGING&quot;" target="&quot;THE UNDERTAKER'S MAN&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Undertaker's Man joins in the scavenging activity, indicating his involvement in the morally questionable practice."</data>
+      <data key="d5">"illegal activity, moral indifference"</data>
+      <data key="d6">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </edge>
+    <edge source="&quot;TOPPER&quot;" target="&quot;FRED&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Fred introduces Topper to the group and encourages his involvement in their laughter and merriment."</data>
+      <data key="d5">"social introduction, shared enjoyment"</data>
+      <data key="d6">chunk-773d0df1dd25c356f7b771d780583e09</data>
+    </edge>
+    <edge source="&quot;TOPPER&quot;" target="&quot;SCROOGE'S CLERK&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Topper might indirectly influence Scrooge's potential act of kindness towards his clerk by leaving him some money in his will."</data>
+      <data key="d5">"indirect influence on generosity, potential financial benefit"</data>
+      <data key="d6">chunk-773d0df1dd25c356f7b771d780583e09</data>
+    </edge>
+    <edge source="&quot;THE DEBT COLLECTORS&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"The debt collectors could potentially become Scrooge's successors if he doesn't relent on his debts."</data>
+      <data key="d5">"creditor, succession"</data>
+      <data key="d6">chunk-83ac129dc9b56f84c46760d153d68e93</data>
+    </edge>
+    <edge source="&quot;FRED&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Fred shows kindness and warmth towards his uncle Scrooge, inviting him for dinner."</data>
+      <data key="d5">"family bond, hospitality"</data>
+      <data key="d6">chunk-19fcf3bed0b4df750efc07831690f550</data>
+    </edge>
+    <edge source="&quot;SCROOGE’S NEPHEW&quot;" target="&quot;MR. SCROOGE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Scrooge's nephew is the one who reveals that his uncle is indeed Mr. Scrooge."</data>
+      <data key="d5">"reveal, familial relationship"</data>
+      <data key="d6">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </edge>
+    <edge source="&quot;EBENEZER (YOUNG)&quot;" target="&quot;DICK WILKINS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Ebenezer and Dick Wilkins are fellow-apprentices with a strong bond."</data>
+      <data key="d5">"friendship, coworkerhood"</data>
+      <data key="d6">chunk-c6c248858d1b13ab7ee9ca13c1aeed6b</data>
+    </edge>
+    <edge source="&quot;THE WINDOWS&quot;" target="&quot;THE SKY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The gloomy sky contrasts with the black appearance of the windows in the city streets on Christmas morning."</data>
+      <data key="d5">"weather contrast, atmosphere"</data>
+      <data key="d6">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </edge>
+    <edge source="&quot;MOOR&quot;" target="&quot;MINERS&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"The miners live and work in the vicinity of the moor, shaping its character as a place of hard labour."&lt;SEP&gt;"The miners live on the moor, working hard in the bowels of the earth, but find cheer and celebration with family during Christmas."</data>
+      <data key="d5">"community life, contrast of environments"&lt;SEP&gt;"residence, occupational presence"</data>
+      <data key="d6">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </edge>
+    <edge source="&quot;DICK WILKINS&quot;" target="&quot;EBENEZER SCROOGE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Ebenezer Scrooge shares a past working relationship with Dick Wilkins as fellow-'prentices under Fezziwig."</data>
+      <data key="d5">"work colleagues, shared past"</data>
+      <data key="d6">chunk-8bc1edd983869352d14cf0886a9175a7</data>
+    </edge>
+    <edge source="&quot;EBENEZER SCROOGE&quot;" target="&quot;MARLEY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Marley was Scrooge's partner and they were kindred spirits. Marley died seven years ago on this night."</data>
+      <data key="d5">"business partnership, death anniversary"</data>
+      <data key="d6">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </edge>
+    <edge source="&quot;EBENEZER SCROOGE&quot;" target="&quot;SCROOGE'S FAMILY&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Scrooge's family members, including Fan and Fred, are estranged from him due to his miserliness and lack of empathy towards others."</data>
+      <data key="d5">"family dynamics, estrangement"</data>
+      <data key="d6">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </edge>
+    <edge source="&quot;EBENEZER SCROOGE&quot;" target="&quot;GHOST OF CHRISTMAS PAST&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The Ghost of Christmas Past shows Scrooge scenes from his life that he has long forgotten or repressed, allowing him to confront his past and consider the consequences of his actions."</data>
+      <data key="d5">"memory, self-reflection"</data>
+      <data key="d6">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </edge>
+    <edge source="&quot;EBENEZER SCROOGE&quot;" target="&quot;GHOST OF CHRISTMAS YET TO COME&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Ghost of Christmas Yet to Come shows Scrooge a grim vision of the future if he continues on his current path, serving as a catalyst for his transformation."</data>
+      <data key="d5">"fear, motivation for change"</data>
+      <data key="d6">chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </edge>
+    <edge source="&quot;EBENEZER SCROOGE&quot;" target="&quot;GHOST OF CHRISTMAS PRESENT&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"The Ghost of Christmas Present shows Ebenezer Scrooge scenes that challenge his perspective on life and work."&lt;SEP&gt;"The Ghost of Christmas Present shows Scrooge how others perceive him and the impact of his actions on those around him, prompting him to reevaluate his behavior."</data>
+      <data key="d5">"perception, personal growth"&lt;SEP&gt;"perspective change, spiritual encounter"</data>
+      <data key="d6">chunk-8bc1edd983869352d14cf0886a9175a7&lt;SEP&gt;chunk-9e3921da66da5d761ab73cd849af6c43</data>
+    </edge>
+    <edge source="&quot;EBENEZER SCROOGE&quot;" target="&quot;FRED (SCROOGE'S NEPHEW)&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Scrooge is initially cold towards his nephew Fred, who tries to persuade him to embrace the spirit of Christmas."</data>
+      <data key="d5">"family dynamics, emotional distance"</data>
+      <data key="d6">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </edge>
+    <edge source="&quot;IGNORANCE&quot;" target="&quot;WANT&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Ignorance and Want are shown clinging to the Spirit together, symbolizing their interconnected nature in causing human suffering."</data>
+      <data key="d5">"interconnectedness, causes of suffering"</data>
+      <data key="d6">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </edge>
+    <edge source="&quot;IGNORANCE&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Scrooge expresses concern for Ignorance and his future, hoping to avoid the doom prophesied on his brow."</data>
+      <data key="d5">"concern, potential intervention"</data>
+      <data key="d6">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </edge>
+    <edge source="&quot;BOB'S FAMILY&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Scrooge offers assistance to Bob Cratchit's struggling family after his interaction with Bob on Christmas morning."</data>
+      <data key="d5">"charity, assistance"</data>
+      <data key="d6">chunk-19fcf3bed0b4df750efc07831690f550</data>
+    </edge>
+    <edge source="&quot;SPIRIT OF CHRISTMAS YET TO COME&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Scrooge is shown his own grave by the Spirit of Christmas Yet to Come, leading him to change his life."</data>
+      <data key="d5">"vision, life transformation"</data>
+      <data key="d6">chunk-91572b3cd42786ba4cb2f180ca25cbf4</data>
+    </edge>
+    <edge source="&quot;LIGHTHOUSE&quot;" target="&quot;SHIPS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The lighthouse serves as a beacon for ships at sea, ensuring their safe passage through treacherous waters."</data>
+      <data key="d5">"navigation aid, maritime safety"</data>
+      <data key="d6">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </edge>
+    <edge source="&quot;LIGHTHOUSE&quot;" target="&quot;SEAWEED&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Great heaps of seaweed at the base of the lighthouse indicate its coastal location and exposure to marine influences."</data>
+      <data key="d5">"location marker, environmental indicator"</data>
+      <data key="d6">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </edge>
+    <edge source="&quot;FEZZIWIG’S WAREHOUSE&quot;" target="&quot;CHRISTMAS EVE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Fezziwig's Warehouse is the venue for the lively Christmas Eve celebration."</data>
+      <data key="d5">"event location, festivity"</data>
+      <data key="d6">chunk-8bc1edd983869352d14cf0886a9175a7</data>
+    </edge>
+    <edge source="&quot;WANT&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Scrooge shows concern for Want, asking if she has no refuge or resource."</data>
+      <data key="d5">"concern, assistance inquiry"</data>
+      <data key="d6">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </edge>
+    <edge source="&quot;TWO YOUNG CRATCHITS&quot;" target="&quot;CHRISTMAS PUDDING&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The two young Cratchits fear that someone might have stolen the Christmas pudding while they were merry with the goose."</data>
+      <data key="d5">"anxiety, anticipation"</data>
+      <data key="d6">chunk-503f0bfa5453467c7c61d160a3540eca</data>
+    </edge>
+    <edge source="&quot;THE FIRST WOMAN&quot;" target="&quot;MRS. DILBER&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mrs. Dilber interacts with The First Woman in scavenging activities, showing a lack of remorse towards others."</data>
+      <data key="d5">"complicity, moral indifference"</data>
+      <data key="d6">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </edge>
+    <edge source="&quot;NEPHEW&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Scrooge and his nephew have contrasting personalities; Scrooge is sombre while his nephew laughs heartily in a joyful environment."</data>
+      <data key="d5">"personality contrast, emotional experience"</data>
+      <data key="d6">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </edge>
+    <edge source="&quot;MARTHA CRATCHIT&quot;" target="&quot;PETER CRATCHIT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Martha and Peter work together to prepare for Christmas dinner, showing sibling cooperation."</data>
+      <data key="d5">"sibling cooperation, meal preparation"</data>
+      <data key="d6">chunk-7e2e7ebcc19a53b399dc03aded4743e7</data>
+    </edge>
+    <edge source="&quot;CHRISTMAS EVE&quot;" target="&quot;MARLEY&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Marley's ghost appears on Christmas Eve, connecting this event to Marley himself."</data>
+      <data key="d5">"appearance, timing"</data>
+      <data key="d6">chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </edge>
+    <edge source="&quot;THE GHOST OF MARLEY&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Scrooge interacts with the Ghost of Marley, who communicates through various means and delivers a message."</data>
+      <data key="d5">"interaction, communication"</data>
+      <data key="d6">chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </edge>
+    <edge source="&quot;THE GHOST OF MARLEY&quot;" target="&quot;MARLEY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Ghost of Marley appears due to Marley's death and seeks to warn Scrooge about his future."</data>
+      <data key="d5">"supernatural appearance, posthumous warning"</data>
+      <data key="d6">chunk-89777b838d5447c7bd1ec11282c4ee89</data>
+    </edge>
+    <edge source="&quot;GHOST OF CHRISTMAS PRESENT&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Ghost of Christmas Present shows Scrooge visions that reveal his past, present, and future."</data>
+      <data key="d5">"visionary revelation, personal growth"</data>
+      <data key="d6">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </edge>
+    <edge source="&quot;GHOST OF CHRISTMAS PRESENT&quot;" target="&quot;THE INSECT ON THE LEAF&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Ghost of Christmas Present uses the metaphor of 'the insect on the leaf' to rebuke Scrooge for his arrogant attitude towards the poor and needy."</data>
+      <data key="d5">"metaphor, criticism"</data>
+      <data key="d6">chunk-503f0bfa5453467c7c61d160a3540eca</data>
+    </edge>
+    <edge source="&quot;THE HOUSE&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Scrooge lives in and interacts with his house throughout the story."</data>
+      <data key="d5">"residence, interaction"</data>
+      <data key="d6">chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </edge>
+    <edge source="&quot;CHILDREN&quot;" target="&quot;FAMILY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The children are part of their families gathered around the fire on the moor, celebrating Christmas together."</data>
+      <data key="d5">"family bond, celebration"</data>
+      <data key="d6">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </edge>
+    <edge source="&quot;JACOB FEZZIWIG&quot;" target="&quot;EMPLOYEES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Jacob Fezziwig treats his employees kindly and hosts an annual Christmas party for them, fostering a positive work environment."</data>
+      <data key="d5">"employer-employee relationship, workplace camaraderie"</data>
+      <data key="d6">chunk-8bc1edd983869352d14cf0886a9175a7</data>
+    </edge>
+    <edge source="&quot;OLD WOMAN&quot;" target="&quot;FAMILY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The old woman is among her family members assembled round the fire in the hut on the moor, singing Christmas songs."</data>
+      <data key="d5">"family bond, celebration"</data>
+      <data key="d6">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </edge>
+    <edge source="&quot;MARLEY&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">31.0</data>
+      <data key="d4">"Scrooge is haunted by Marley's ghost after his death, leading him to reflect on his own life and actions."&lt;SEP&gt;"Scrooge sees Marley's face on the door knocker, suggesting a connection between them and possibly Scrooge's guilt or remorse."&lt;SEP&gt;"Scrooge sees the ghost of his deceased business partner, Marley, which frightens him."&lt;SEP&gt;"Scrooge was Marley's sole executor and administrator after his death, indicating their close business relationship during life."</data>
+      <data key="d5">"appearance, warning"&lt;SEP&gt;"business partnership, posthumous connection"&lt;SEP&gt;"haunting, reflection"&lt;SEP&gt;"supernatural encounter, guilt"</data>
+      <data key="d6">chunk-d9aac3484185ac66045df92214d245d5&lt;SEP&gt;chunk-9c43dac2fcd5b578242d907ea6f8fc7b&lt;SEP&gt;chunk-8f738cb25d60a7dab782162d9d0a25ed&lt;SEP&gt;chunk-89777b838d5447c7bd1ec11282c4ee89</data>
+    </edge>
+    <edge source="&quot;SCROOGE&quot;" target="&quot;HIS FORMER SELF&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Scrooge is shown to have changed from his former self, who was more caring and less miserly."</data>
+      <data key="d5">"character development, attitude shift"</data>
+      <data key="d6">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </edge>
+    <edge source="&quot;SCROOGE&quot;" target="&quot;THE FOUNDER OF THE FEAST&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Scrooge is referred to as 'The Founder of the Feast' by Bob Cratchit, indicating his role in providing for the feast despite his miserly nature."</data>
+      <data key="d5">"recognition, irony"</data>
+      <data key="d6">chunk-503f0bfa5453467c7c61d160a3540eca</data>
+    </edge>
+    <edge source="&quot;SCROOGE&quot;" target="&quot;THE CUSTOMERS AT THE GROCERS'">
+      <data key="d3">6.0</data>
+      <data key="d4">"Scrooge's miserly nature contrasts with the cheerful and hurried customers at the grocer's shop on Christmas morning."</data>
+      <data key="d5">"attitude contrast, Christmas spirit"</data>
+      <data key="d6">chunk-99b0ec7f7e006561352b5d65e849611d</data>
+    </edge>
+    <edge source="&quot;SPIRIT’S LIFE&quot;" target="&quot;TIME&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"The Spirit's life on Earth ends at midnight, emphasizing the brevity of its existence compared to Scrooge's doubts about it being a night."</data>
+      <data key="d5">"finite lifespan, temporal limitation"</data>
+      <data key="d6">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </edge>
+    <edge source="&quot;SOURCE ENTITY&quot;" target="&quot;TARGET ENTITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Relationship Description"</data>
+      <data key="d5">"Relationship Keywords"</data>
+      <data key="d6">chunk-1d4b58de5429cd1261370c231c8673e8</data>
+    </edge>
+  </graph>
+</graphml>
