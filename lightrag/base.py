@@ -1,5 +1,15 @@
 from dataclasses import dataclass, field
-from typing import TypedDict, Union, Literal, Generic, TypeVar, Optional, Dict, Any
+from typing import (
+    TypedDict,
+    Union,
+    Literal,
+    Generic,
+    TypeVar,
+    Optional,
+    Dict,
+    Any,
+    List,
+)
 from enum import Enum
 
 import numpy as np
@@ -33,6 +43,13 @@ class QueryParam:
     max_token_for_local_context: int = 4000
     hl_keywords: list[str] = field(default_factory=list)
     ll_keywords: list[str] = field(default_factory=list)
+    # Conversation history support
+    conversation_history: list[dict] = field(
+        default_factory=list
+    )  # Format: [{"role": "user/assistant", "content": "message"}]
+    history_turns: int = (
+        3  # Number of complete conversation turns (user-assistant pairs) to consider
+    )
 
 
 @dataclass
@@ -132,6 +149,14 @@ class BaseGraphStorage(StorageNameSpace):
 
     async def embed_nodes(self, algorithm: str) -> tuple[np.ndarray, list[str]]:
         raise NotImplementedError("Node embedding is not used in lightrag.")
+
+    async def get_all_labels(self) -> List[str]:
+        raise NotImplementedError
+
+    async def get_knowledge_graph(
+        self, node_label: str, max_depth: int = 5
+    ) -> Dict[str, List[Dict]]:
+        raise NotImplementedError
 
 
 class DocStatus(str, Enum):

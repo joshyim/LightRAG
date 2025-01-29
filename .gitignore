@@ -29,3 +29,5 @@ examples/output/
 neo4j/
 mongo/
 pgvector/
+#Remove config.ini from repo
+*.ini

@@ -1,12 +1,7 @@
-aioboto3
 ascii_colors
 fastapi
-lightrag-hku
-nano_vectordb
 nest_asyncio
 numpy
-ollama
-openai
 pipmaster
 python-dotenv
 python-multipart
@@ -14,5 +9,4 @@ tenacity
 tiktoken
 torch
 tqdm
-transformers
 uvicorn
