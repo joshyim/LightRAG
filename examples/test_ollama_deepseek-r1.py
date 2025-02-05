@@ -3,10 +3,10 @@ import os
 import inspect
 import logging
 from lightrag import LightRAG, QueryParam
-from lightrag.llm import ollama_model_complete, ollama_embedding
+from lightrag.llm.ollama import ollama_model_complete, ollama_embedding
 from lightrag.utils import EmbeddingFunc
 
-WORKING_DIR = "./olm_mistral_dickens"
+WORKING_DIR = "./olm_ds-r1_dickens"
 
 logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
@@ -16,7 +16,7 @@ if not os.path.exists(WORKING_DIR):
 rag = LightRAG(
     working_dir=WORKING_DIR,
     llm_model_func=ollama_model_complete,
-    llm_model_name="mistral-nemo:latest",
+    llm_model_name="deepseek-r1:14b",
     llm_model_max_async=4,
     llm_model_max_token_size=32768,
     llm_model_kwargs={"host": "http://localhost:11434", "options": {"num_ctx": 32768}},
@@ -29,7 +29,7 @@ rag = LightRAG(
     ),
 )
 
-# with open("./olm_mistral_dickens/book.txt", "r", encoding="utf-8") as f:
+# with open("./olm_ds-r1_dickens/book.txt", "r", encoding="utf-8") as f:
 #     rag.insert(f.read())
 
 # # Perform naive search
@@ -52,41 +52,46 @@ rag = LightRAG(
 #     rag.query("What are the top themes in this story?", param=QueryParam(mode="hybrid"))
 # )
 
-# # stream response
-# resp = rag.query(
-#     "What are the top themes in this story?",
-#     param=QueryParam(mode="hybrid", stream=True),
-# )
+# stream response
+resp = rag.query(
+    "What are the top themes in this story?",
+#    param=QueryParam(mode="hybrid", stream=True),
+    param=QueryParam(mode="mix", stream=True),
+)
 
 
-# async def print_stream(stream):
-#     async for chunk in stream:
-#         print(chunk, end="", flush=True)
+async def print_stream(stream):
+    async for chunk in stream:
+        print(chunk, end="", flush=True)
 
 
-# if inspect.isasyncgen(resp):
-#     asyncio.run(print_stream(resp))
-# else:
-#     print(resp)
+if inspect.isasyncgen(resp):
+    asyncio.run(print_stream(resp))
+else:
+    print(resp)
 
 
 # Perform naive search
-print(rag.query("What are the top themes in this story?", param=QueryParam(mode="naive")))
+# print("naive search/n")
+# print(rag.query("What are the top themes in this story?", param=QueryParam(mode="naive", conversation_history=[])))
 
-# Perform local search
-print(rag.query("What are the top themes in this story?", param=QueryParam(mode="local")))
+# # Perform local search
+# print("local search/n")
+# print(rag.query("What are the top themes in this story?", param=QueryParam(mode="local", conversation_history=[])))
 
-# Perform global search
-print(rag.query("What are the top themes in this story?", param=QueryParam(mode="global")))
+# # Perform global search
+# print("global search/n")
+# print(rag.query("What are the top themes in this story?", param=QueryParam(mode="global", conversation_history=[])))
 
-# Perform hybrid search
-print(rag.query("What are the top themes in this story?", param=QueryParam(mode="hybrid")))
+# # Perform hybrid search
+# print("hybrid search/n")
+# print(rag.query("What are the top themes in this story?", param=QueryParam(mode="hybrid", conversation_history=[])))
 
-# Perform mix search (Knowledge Graph + Vector Retrieval)
-# Mix mode combines knowledge graph and vector search:
-# - Uses both structured (KG) and unstructured (vector) information
-# - Provides comprehensive answers by analyzing relationships and context
-# - Supports image content through HTML img tags
-# - Allows control over retrieval depth via top_k parameter
-print(rag.query("What are the top themes in this story?", param=QueryParam(
-    mode="mix")))
+# # Perform mix search (Knowledge Graph + Vector Retrieval)
+# # Mix mode combines knowledge graph and vector search:
+# # - Uses both structured (KG) and unstructured (vector) information
+# # - Provides comprehensive answers by analyzing relationships and context
+# # - Supports image content through HTML img tags
+# # - Allows control over retrieval depth via top_k parameter
+# print(rag.query("What are the top themes in this story?", param=QueryParam(
+#     mode="mix")))

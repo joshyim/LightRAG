@@ -673,6 +673,14 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "What are the top themes in this story?"
+    },
+    "74841f633560f3d5a40ff3191ba2a192": {
+      "return": "{\"high_level_keywords\": [\"Themes\", \"Story analysis\", \"Literary elements\"], \"low_level_keywords\": [\"Character development\", \"Plot\", \"Motifs\", \"Setting\", \"Conflict\"]}",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the top themes in this story?"
     }
   }
 }
