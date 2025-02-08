@@ -25,6 +25,8 @@ xxhash = "^3.5.0"
 # priority = "explicit"
 pipmaster = "^0.4.0"
 nano-vectordb = "^0.0.4.3"
+google-generativeai = "^0.8.4"
+python-dotenv = "^1.0.1"
 
 [build-system]
 requires = ["poetry-core"]

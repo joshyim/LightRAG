@@ -1,21 +1,38 @@
 import os
+import sys
+# import nest_asyncio  # Uncomment if using jupyter notebook
+
+# Third-party imports
+from dotenv import load_dotenv
+import google.generativeai as genai
+
+# Add project root to Python path
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+# Local imports
 from lightrag import LightRAG, QueryParam
 from lightrag.llm.gemini import gemini_complete, gemini_embed
-import google.generativeai as genai
 from lightrag.utils import EmbeddingFunc
+
 #########
 # Uncomment the below two lines if running in a jupyter notebook to handle the async nature of rag.insert()
 # import nest_asyncio
 # nest_asyncio.apply()
 #########
 
+# Constants
 WORKING_DIR = "./gemini_dickens"
 
+# Create working directory if it doesn't exist
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
+load_dotenv()
 
 # Configure Gemini API
-genai.configure(api_key='YOUR_GEMINI_API_KEY')  # Replace with your API key
+gemini_api_key = os.getenv('GEMINI_API_KEY')
+if not gemini_api_key:
+    raise ValueError("GEMINI_API_KEY not found in environment variables. Please add it to .env file")
+genai.configure(api_key=gemini_api_key)
 
 rag = LightRAG(
     working_dir=WORKING_DIR,
